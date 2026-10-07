@@ -2388,7 +2388,9 @@ public class ProductCatalog {
 						R.drawable.from_hourly_to_value_based_pricing,
 						R.drawable.from_hourly_to_value_based_pricing_1,
 						R.drawable.from_hourly_to_value_based_pricing_2,
-						R.drawable.from_hourly_to_value_based_pricing_3
+						R.drawable.from_hourly_to_value_based_pricing_3,
+						"from-hourly-to-value-based-pricing",
+						"Business & Entrepreneurship/Guide/From Hourly to Value-Based Pricing - Guide.pdf"
 				)
 		);
 
@@ -2416,7 +2418,9 @@ public class ProductCatalog {
 						R.drawable.productize_any_freelance_skill_in_one_weekend,
 						R.drawable.productize_any_freelance_skill_in_one_weekend_1,
 						R.drawable.productize_any_freelance_skill_in_one_weekend_2,
-						R.drawable.productize_any_freelance_skill_in_one_weekend_3
+						R.drawable.productize_any_freelance_skill_in_one_weekend_3,
+						"productize-any-freelance-skill-in-one-weekend",
+						"Business & Entrepreneurship/Guide/Productize Any Freelance Skill in One Weekend - Guide.pdf"
 				)
 		);
 
@@ -2444,7 +2448,9 @@ public class ProductCatalog {
 						R.drawable.score_your_passive_income_idea_in_30_minutes,
 						R.drawable.score_your_passive_income_idea_in_30_minutes_1,
 						R.drawable.score_your_passive_income_idea_in_30_minutes_2,
-						R.drawable.score_your_passive_income_idea_in_30_minutes_3
+						R.drawable.score_your_passive_income_idea_in_30_minutes_3,
+						"score-your-passive-income-idea-in-30-minutes",
+						"Business & Entrepreneurship/Guide/Score Your Passive Income Idea in 30 Minutes - Guide.pdf"
 				)
 		);
 
@@ -2472,7 +2478,9 @@ public class ProductCatalog {
 						R.drawable.site_speed_optimization_for_non_technical_store_owners,
 						R.drawable.site_speed_optimization_for_non_technical_store_owners_1,
 						R.drawable.site_speed_optimization_for_non_technical_store_owners_2,
-						R.drawable.site_speed_optimization_for_non_technical_store_owners_3
+						R.drawable.site_speed_optimization_for_non_technical_store_owners_3,
+						"site-speed-optimization-for-non-technical-store-owners",
+						"Business & Entrepreneurship/Guide/Site Speed Optimization for Non-Technical Store Owners - Guide.pdf"
 				)
 		);
 
@@ -2500,7 +2508,9 @@ public class ProductCatalog {
 						R.drawable.stop_losing_top_talent_at_the_interview_stage,
 						R.drawable.stop_losing_top_talent_at_the_interview_stage_1,
 						R.drawable.stop_losing_top_talent_at_the_interview_stage_2,
-						R.drawable.stop_losing_top_talent_at_the_interview_stage_3
+						R.drawable.stop_losing_top_talent_at_the_interview_stage_3,
+						"stop-losing-top-talent-at-the-interview-stage",
+						"Business & Entrepreneurship/Guide/Stop Losing Top Talent at the Interview Stage - Guide.pdf"
 				)
 		);
 
@@ -2528,7 +2538,9 @@ public class ProductCatalog {
 						R.drawable.the_30_day_lean_launch_plan,
 						R.drawable.the_30_day_lean_launch_plan_1,
 						R.drawable.the_30_day_lean_launch_plan_2,
-						R.drawable.the_30_day_lean_launch_plan_3
+						R.drawable.the_30_day_lean_launch_plan_3,
+						"the-30-day-lean-launch-plan",
+						"Business & Entrepreneurship/Guide/The 30-Day Lean Launch Plan - Guide.pdf"
 				)
 		);
 
@@ -2556,7 +2568,9 @@ public class ProductCatalog {
 						R.drawable.the_four_beat_vendor_renegotiation_script,
 						R.drawable.the_four_beat_vendor_renegotiation_script_1,
 						R.drawable.the_four_beat_vendor_renegotiation_script_2,
-						R.drawable.the_four_beat_vendor_renegotiation_script_3
+						R.drawable.the_four_beat_vendor_renegotiation_script_3,
+						"the-four-beat-vendor-renegotiation-script",
+						"Business & Entrepreneurship/Guide/The Four-Beat Vendor Renegotiation Script - Guide.pdf"
 				)
 		);
 
@@ -2584,7 +2598,9 @@ public class ProductCatalog {
 						R.drawable.the_structured_interview_playbook,
 						R.drawable.the_structured_interview_playbook_1,
 						R.drawable.the_structured_interview_playbook_2,
-						R.drawable.the_structured_interview_playbook_3
+						R.drawable.the_structured_interview_playbook_3,
+						"the-structured-interview-playbook",
+						"Business & Entrepreneurship/Guide/The Structured Interview Playbook - Guide.pdf"
 				)
 		);
 
@@ -2612,7 +2628,9 @@ public class ProductCatalog {
 						R.drawable.the_three_number_pricing_formula,
 						R.drawable.the_three_number_pricing_formula_1,
 						R.drawable.the_three_number_pricing_formula_2,
-						R.drawable.the_three_number_pricing_formula_3
+						R.drawable.the_three_number_pricing_formula_3,
+						"the-three-number-pricing-formula",
+						"Business & Entrepreneurship/Guide/The Three-Number Pricing Formula - Guide.pdf"
 				)		
 		);
 
@@ -2640,7 +2658,9 @@ public class ProductCatalog {
 						R.drawable.the_weekend_cash_control_setup,
 						R.drawable.the_weekend_cash_control_setup_1,
 						R.drawable.the_weekend_cash_control_setup_2,
-						R.drawable.the_weekend_cash_control_setup_3
+						R.drawable.the_weekend_cash_control_setup_3,
+						"the-weekend-cash-control-setup",
+						"Business & Entrepreneurship/Guide/The Weekend Cash Control Setup - Guide.pdf"
 				)
 		);
 

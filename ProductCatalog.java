@@ -142,6 +142,8 @@ public class ProductCatalog {
 						R.drawable.pick_your_passive_income_stream_1,
 						R.drawable.pick_your_passive_income_stream_2,
 						R.drawable.pick_your_passive_income_stream_3
+						"pick-your-passive-income-stream",
+						"Business & Entrepreneurship/Books/Pick Your Passive Income Stream - Ebook.pdf"
 						
 				)
 		);
@@ -183,6 +185,8 @@ public class ProductCatalog {
 						R.drawable.the_freelancers_cash_bridge_1,
 						R.drawable.the_freelancers_cash_bridge_2,
 						R.drawable.the_freelancers_cash_bridge_3
+						"the-freelancers-cash-bridge",
+						"Business & Entrepreneurship/Books/The Freelancer's Cash Bridge - Book.pdf"
 				)
 		);
 
@@ -223,6 +227,8 @@ public class ProductCatalog {
 						R.drawable.agency_growth_blueprint_1,
 						R.drawable.agency_growth_blueprint_2,
 						R.drawable.agency_growth_blueprint_3
+						"agency-growth-blueprint",
+						"Business & Entrepreneurship/Books/Agency Growth Blueprint - Ebook.pdf"
 						
 				)
 		);
@@ -265,6 +271,8 @@ public class ProductCatalog {
 						R.drawable.build_an_ecommerce_store_that_sells_1,
 						R.drawable.build_an_ecommerce_store_that_sells_2,
 						R.drawable.build_an_ecommerce_store_that_sells_3
+						"build-an-ecommerce-store-that-sells",
+						"Business & Entrepreneurship/Books/Build an Ecommerce Store That Sells - Ebook.pdf"
 				)
 		);
 
@@ -306,6 +314,8 @@ public class ProductCatalog {
 						R.drawable.creating_the_perfect_customer_experience_1,
 						R.drawable.creating_the_perfect_customer_experience_2,
 						R.drawable.creating_the_perfect_customer_experience_3
+						"creating-the-perfect-customer-experience",
+						"Business & Entrepreneurship/Books/Creating the Perfect Customer Experience - Ebook.pdf"
 				)
 		);
 
@@ -347,6 +357,8 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_consistent_visual_identity_1,
 						R.drawable.how_to_build_a_consistent_visual_identity_2,
 						R.drawable.how_to_build_a_consistent_visual_identity_3
+						"how-to-build-a-consistent-visual-identity",
+						"Business & Entrepreneurship/Books/How to Build a Consistent Visual Identity - Book.pdf"
 				)
 		);
 
@@ -388,6 +400,8 @@ public class ProductCatalog {
 						R.drawable.how_to_franchise_your_business_1,
 						R.drawable.how_to_franchise_your_business_2,
 						R.drawable.how_to_franchise_your_business_3
+						"how-to-franchise-your-business",
+						"Business & Entrepreneurship/Books/How to Franchise Your Business - Ebook.pdf"
 				)
 		);
 
@@ -428,6 +442,8 @@ public class ProductCatalog {
 						R.drawable.merch_that_sticks_1,
 						R.drawable.merch_that_sticks_2,
 						R.drawable.merch_that_sticks_3
+						"merch-that-sticks",
+						"Business & Entrepreneurship/Books/Merch That Sticks - Ebook.pdf"
 				)
 		);
 
@@ -469,6 +485,8 @@ public class ProductCatalog {
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_1,
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_2,
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_3
+						"package-what-you-know-into-a-high-ticket-offer",
+						"Business & Entrepreneurship/Books/Package What You Know Into a High-Ticket Offer - Ebook.pdf"
 				)
 		);
 
@@ -510,6 +528,8 @@ public class ProductCatalog {
 						R.drawable.swot_analysis_simplified_1,
 						R.drawable.swot_analysis_simplified_2,
 						R.drawable.swot_analysis_simplified_3
+						"swot-analysis-simplified",
+						"Business & Entrepreneurship/Books/SWOT Analysis Simplified - Ebook.pdf"
 				)
 		);
 
@@ -551,6 +571,8 @@ public class ProductCatalog {
 						R.drawable.the_brand_evolution_system_for_modern_creators_1,
 						R.drawable.the_brand_evolution_system_for_modern_creators_2,
 						R.drawable.the_brand_evolution_system_for_modern_creators_3
+						"the-brand-evolution-system-for-modern-creators",
+						"Business & Entrepreneurship/Books/The Brand Evolution System for Modern Creators - Ebook.pdf"
 				)
 		);
 
@@ -590,6 +612,8 @@ public class ProductCatalog {
 						R.drawable.the_business_model_blueprint_1,
 						R.drawable.the_business_model_blueprint_2,
 						R.drawable.the_business_model_blueprint_3
+						"the-business-model-blueprint",
+						"Business & Entrepreneurship/Books/The Business Model Blueprint - Ebook.pdf"
 				)
 		);
 
@@ -631,6 +655,8 @@ public class ProductCatalog {
 						R.drawable.the_cash_flow_system_for_small_businesses_1,
 						R.drawable.the_cash_flow_system_for_small_businesses_2,
 						R.drawable.the_cash_flow_system_for_small_businesses_3
+						"the-cash-flow-system-for-small-businesses",
+						"Business & Entrepreneurship/Books/The Cash Flow System for Small Businesses - Ebook.pdf"
 				)
 		);
 
@@ -673,6 +699,8 @@ public class ProductCatalog {
 						R.drawable.the_first_time_entrepreneur_launchpad_1,
 						R.drawable.the_first_time_entrepreneur_launchpad_2,
 						R.drawable.the_first_time_entrepreneur_launchpad_3
+						"the-first-time-entrepreneur-launchpad",
+						"Business & Entrepreneurship/Books/The First Time Entrepreneur Launchpad - Book.pdf"
 				)
 		);
 
@@ -715,6 +743,8 @@ public class ProductCatalog {
 						R.drawable.the_neuroinclusive_managers_playbook_1,
 						R.drawable.the_neuroinclusive_managers_playbook_2,
 						R.drawable.the_neuroinclusive_managers_playbook_3
+						"the-neuroinclusive-managers-playbook",
+						"Business & Entrepreneurship/Books/The Neuroinclusive Manager's Playbook - Ebook.pdf"
 				)
 		);
 
@@ -750,6 +780,8 @@ public class ProductCatalog {
 						R.drawable.the_psychology_of_closing_1,
 						R.drawable.the_psychology_of_closing_2,
 						R.drawable.the_psychology_of_closing_3
+						"the-psychology-of-closing",
+						"Business & Entrepreneurship/Books/The Psychology of Closing - Ebook.pdf"
 				)
 		);
 
@@ -785,6 +817,8 @@ public class ProductCatalog {
 						R.drawable.turn_sales_into_predictable_growth_1,
 						R.drawable.turn_sales_into_predictable_growth_2,
 						R.drawable.turn_sales_into_predictable_growth_3
+						"turn-sales-into-predictable-growth",
+						"Business & Entrepreneurship/Books/Turn Sales Into Predictable Growth - Ebook.pdf"
 				)
 		);
 
@@ -820,6 +854,8 @@ public class ProductCatalog {
 						R.drawable.turn_your_expertise_into_5k_workshop_days_1,
 						R.drawable.turn_your_expertise_into_5k_workshop_days_2,
 						R.drawable.turn_your_expertise_into_5k_workshop_days_3
+						"turn-your-expertise-into-5k-workshop-days",
+						"Business & Entrepreneurship/Books/Turn Your Expertise Into $5K Workshop Days - Ebook.pdf"
 				)
 		);
 
@@ -855,6 +891,8 @@ public class ProductCatalog {
 						R.drawable.visual_selling_1,
 						R.drawable.visual_selling_2,
 						R.drawable.visual_selling_3
+						"visual-selling",
+						"Business & Entrepreneurship/Books/Visual Selling - Ebook.pdf"
 				)
 		);
 

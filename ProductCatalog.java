@@ -3285,7 +3285,7 @@ public class ProductCatalog {
 						R.drawable.confidently_close_every_call_workbook_1,
 						R.drawable.confidently_close_every_call_workbook_2,
 						R.drawable.confidently_close_every_call_workbook_3
-						"confidently-close-every-call",
+						"confidently-close-every-call-workbook",
 						"Business & Entrepreneurship/Workbook/Confidently Close Every Call - Workbook.pdf"
 
 				)
@@ -3315,7 +3315,7 @@ public class ProductCatalog {
 						R.drawable.faceless_creator_1,
 						R.drawable.faceless_creator_2,
 						R.drawable.faceless_creator_3
-						"faceless-creator",
+						"faceless-creator-workbook",
 						"Business & Entrepreneurship/Workbook/Faceless Creator - Workbook.pdf"
 
 				)
@@ -3344,7 +3344,7 @@ public class ProductCatalog {
 						R.drawable.high_ticket_affiliate_marketing_workbook_1,
 						R.drawable.high_ticket_affiliate_marketing_workbook_2,
 						R.drawable.high_ticket_affiliate_marketing_workbook_3
-						"high-ticket-affiliate-marketing",
+						"high-ticket-affiliate-marketing-workbook",
 						"Business & Entrepreneurship/Workbook/High-Ticket Affiliate Marketing - Workbook.pdf"
 
 				)
@@ -3373,7 +3373,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_website_workbook_1,
 						R.drawable.how_to_build_a_website_workbook_2,
 						R.drawable.how_to_build_a_website_workbook_3
-						"how-to-build-a-website",
+						"how-to-build-a-website-workbook",
 						"Business & Entrepreneurship/Workbook/How to Build a Website - Workbook.pdf"
 
 				)
@@ -3403,7 +3403,7 @@ public class ProductCatalog {
 						R.drawable.microsaas_success_blueprint_workbook_1,
 						R.drawable.microsaas_success_blueprint_workbook_2,
 						R.drawable.microsaas_success_blueprint_workbook_3
-						"microsaas-success-blueprint",
+						"microsaas-success-blueprint-workbook",
 						"Business & Entrepreneurship/Workbook/MicroSaas Success Blueprint - Workbook.pdf"
 
 				)
@@ -3432,7 +3432,7 @@ public class ProductCatalog {
 						R.drawable.money_psychology_in_business_worbook_1,
 						R.drawable.money_psychology_in_business_worbook_2,
 						R.drawable.money_psychology_in_business_worbook_3
-						"money-psychology-in-business",
+						"money-psychology-in-business-workbook",
 						"Business & Entrepreneurship/Workbook/Money Psychology in Business - Workbook.pdf"
 
 				)
@@ -3462,7 +3462,7 @@ public class ProductCatalog {
 						R.drawable.the_power_of_prototypes_workbook_1,
 						R.drawable.the_power_of_prototypes_workbook_2,
 						R.drawable.the_power_of_prototypes_workbook_3
-						"the-power-of-prototypes",
+						"the-power-of-prototypes-workbook",
 						"Business & Entrepreneurship/Workbook/The Power of Prototypes - Workbook.pdf"
 
 				)
@@ -3491,7 +3491,7 @@ public class ProductCatalog {
 						R.drawable.understanding_business_metrics_workbook_1,
 						R.drawable.understanding_business_metrics_workbook_2,
 						R.drawable.understanding_business_metrics_workbook_3
-						"understanding-business-metrics",
+						"understanding-business-metrics-workbook",
 						"Business & Entrepreneurship/Workbook/Understanding Business Metrics - Workbook.pdf"
 
 				)
@@ -3520,7 +3520,7 @@ public class ProductCatalog {
 						R.drawable.validate_business_ideas_workbook_1,
 						R.drawable.validate_business_ideas_workbook_2,
 						R.drawable.validate_business_ideas_workbook_3
-						"validate-business-ideas",
+						"validate-business-ideas-workbook",
 						"Business & Entrepreneurship/Workbook/Validate Business Ideas - Workbook.pdf"
 
 				)
@@ -3550,7 +3550,7 @@ public class ProductCatalog {
 						R.drawable.winning_product_research_workbook_1,
 						R.drawable.winning_product_research_workbook_2,
 						R.drawable.winning_product_research_workbook_3
-						"winning-product-research",
+						"winning-product-research-workbook",
 						"Business & Entrepreneurship/Workbook/Winning Product Research - Workbook.pdf"
 
 				)

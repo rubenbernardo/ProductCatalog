@@ -2805,6 +2805,8 @@ public class ProductCatalog {
 
 						"<b>Use this toolstack to simplify your agency operations, reduce unnecessary manual work, organize your systems, and build a smoother foundation for efficient growth.</b>",
 						R.drawable.agency_operations_scaling,
+						"agency-operations-scaling",
+						"Business & Entrepreneurship/Toolstack/Agency Operations & Scaling - Toolstack.pdf",
 						R.drawable.agency_operations_scaling_1,
 						R.drawable.agency_operations_scaling_2,
 						R.drawable.agency_operations_scaling_3,

@@ -1385,7 +1385,8 @@ public class ProductCatalog {
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_2,
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_3,
 						"7-passive-income-lies-that-cost-first-time-builders-20000",
-						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders 0,000 - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders 
+0,000 - Listicle.pdf"
 				)
 		);
 
@@ -1730,8 +1731,39 @@ public class ProductCatalog {
 						"7-critical-mistakes-that-sabotage-most-swot-analyses",
 						"Business & Entrepreneurship/Listicle/7 Critical Mistakes That Sabotage Most SWOT Analyses - Listicle.pdf"
 				)
+				
 		);
-		
+
+			products.add(
+				new ProductItem(
+						"7 Conversion Killers Hiding on Your Product Pages",	
+						"LEARNPIDIA",
+						"850",
+						"Listicles",
+						"Business & Entrepreneurship",
+						"23 Pages",
+						"Duration 0 min ",
+						"<p>This listicle is a ready-to-use content asset designed to quickly educate, engage, and qualify your audience with simple, high-impact fixes for ecommerce product pages.</p>" +
+
+						"<b>WHAT'S INSIDE?</b><br><br>" +
+
+						"<p>  -  7 common product page mistakes that quietly reduce sales..</p>" +
+						"<p>  -  Simple fixes your customers can apply without redesigning their store.</p>" +
+						"<p>  -  Clear explanations of why customers leave and how to keep them engaged.</p>" +
+						"<p>  -  Easy improvements that build trust and make buying feel safer.</p>" +
+
+						"<b>This clear and digestible resource gives you useful insights for making SWOT analysis more practical and effective. Whether you're evaluating a business, planning your next move, or improving an existing strategy, this listicle can help you avoid common mistakes and turn SWOT into a useful decision-making tool.</b>",						
+						R.drawable.conversion_killers_hiding_on_your_product_pages,
+						R.drawable.conversion_killers_hiding_on_your_product_pages_1,
+						R.drawable.conversion_killers_hiding_on_your_product_pages_2,
+						R.drawable.conversion_killers_hiding_on_your_product_pages_3,
+						"7-conversion-killers-hiding-on-your-product-pages",
+						"Business & Entrepreneurship/Listicle/7 Conversion Killers Hiding on Your Product Pages - Listicle.pdf"
+				)
+				
+		);
+
+			
         // -----------------------------------------------------
         // CHECKLISTS
         // -----------------------------------------------------

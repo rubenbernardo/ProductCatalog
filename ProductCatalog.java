@@ -57,7 +57,7 @@ public class ProductCatalog {
 					R.drawable.cut_smart_2,     // sliderImage2
 					R.drawable.cut_smart_3,       // sliderImage3
 					"cut-smart", 
-					"Cut Smart - Ebook.pdf"    // B2 fileKey
+					"Business & Entrepreneurship/Books/Cut Smart - Ebook.pdf"    // B2 fileKey
 					
 			)
 		);

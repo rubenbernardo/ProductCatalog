@@ -2807,7 +2807,9 @@ public class ProductCatalog {
 						R.drawable.agency_operations_scaling,
 						R.drawable.agency_operations_scaling_1,
 						R.drawable.agency_operations_scaling_2,
-						R.drawable.agency_operations_scaling_3
+						R.drawable.agency_operations_scaling_3,
+						"agency-operations-and-scaling",
+						"Business & Entrepreneurship/Toolstack/Agency Operations & Scaling - Toolstack.pdf"
 				)
 		);
 
@@ -2835,7 +2837,9 @@ public class ProductCatalog {
 						R.drawable.build_positive_digital_presence,
 						R.drawable.build_positive_digital_presence_1,
 						R.drawable.build_positive_digital_presence_2,
-						R.drawable.build_positive_digital_presence_3
+						R.drawable.build_positive_digital_presence_3,
+						"build-positive-digital-presence",
+						"Business & Entrepreneurship/Toolstack/Build Positive Digital Presence - Toolstack.pdf"
 				)
 		);
 
@@ -2861,7 +2865,9 @@ public class ProductCatalog {
 						R.drawable.confidently_close_every_call,
 						R.drawable.confidently_close_every_call_1,
 						R.drawable.confidently_close_every_call_2_2,
-						R.drawable.confidently_close_every_call_3
+						R.drawable.confidently_close_every_call_3,
+						"confidently-close-every-call",
+						"Business & Entrepreneurship/Toolstack/Confidently Close Every Call - Toolstack.pdf"
 				)
 		);
 
@@ -2888,7 +2894,9 @@ public class ProductCatalog {
 						R.drawable.crafting_irresistible_business_offers,
 						R.drawable.crafting_irresistible_business_offers_1,
 						R.drawable.crafting_irresistible_business_offers_2,
-						R.drawable.crafting_irresistible_business_offers_3
+						R.drawable.crafting_irresistible_business_offers_3,
+						"crafting-irresistible-business-offers",
+						"Business & Entrepreneurship/Toolstack/Crafting Irresistible Business Offers - Toolstack.pdf"
 				)
 		);
 
@@ -2915,7 +2923,9 @@ public class ProductCatalog {
 						R.drawable.digital_creators_buddy,
 						R.drawable.digital_creators_buddy_1,
 						R.drawable.digital_creators_buddy_2,
-						R.drawable.digital_creators_buddy_3
+						R.drawable.digital_creators_buddy_3,
+						"digital-creators-buddy",
+						"Business & Entrepreneurship/Toolstack/Digital Creator's Buddy - Toolstack.pdf"
 				)
 		);
 
@@ -2943,7 +2953,9 @@ public class ProductCatalog {
 						R.drawable.high_ticket_affiliate_marketing,
 						R.drawable.high_ticket_affiliate_marketing_1,
 						R.drawable.high_ticket_affiliate_marketing_2_2,
-						R.drawable.high_ticket_affiliate_marketing_3
+						R.drawable.high_ticket_affiliate_marketing_3,
+						"high-ticket-affiliate-marketing",
+						"Business & Entrepreneurship/Toolstack/High-Ticket Affiliate Marketing - Toolstack.pdf"
 				)
 		);
 
@@ -2970,7 +2982,9 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_website,
 						R.drawable.how_to_build_a_website_1,
 						R.drawable.how_to_build_a_website_2_2,
-						R.drawable.how_to_build_a_website_3
+						R.drawable.how_to_build_a_website_3,
+						"how-to-build-a-website",
+						"Business & Entrepreneurship/Toolstack/How to Build a Website - Toolstack.pdf"
 				)
 		);
 
@@ -2998,7 +3012,9 @@ public class ProductCatalog {
 						R.drawable.marketing_plan_simplified,
 						R.drawable.marketing_plan_simplified_1,
 						R.drawable.marketing_plan_simplified_2,
-						R.drawable.marketing_plan_simplified_3
+						R.drawable.marketing_plan_simplified_3,
+						"marketing-plan-simplified",
+						"Business & Entrepreneurship/Toolstack/Marketing Plan Simplified - Toolstack.pdf"
 				)
 		);
 
@@ -3025,7 +3041,9 @@ public class ProductCatalog {
 						R.drawable.microsaas_success_blueprint,
 						R.drawable.microsaas_success_blueprint_1,
 						R.drawable.microsaas_success_blueprint_2_2,
-						R.drawable.microsaas_success_blueprint_3
+						R.drawable.microsaas_success_blueprint_3,
+						"microsaas-success-blueprint",
+						"Business & Entrepreneurship/Toolstack/MicroSaas Success Blueprint - Toolstack.pdf"
 				)
 		);
 
@@ -3055,7 +3073,9 @@ public class ProductCatalog {
 						R.drawable.power_up_your_brand,
 						R.drawable.power_up_your_brand_1,
 						R.drawable.power_up_your_brand_2,
-						R.drawable.power_up_your_brand_3
+						R.drawable.power_up_your_brand_3,
+						"power-up-your-brand",
+						"Business & Entrepreneurship/Toolstack/Power Up Your Brand - Toolstack.pdf"
 				)
 		);
 
@@ -3082,7 +3102,9 @@ public class ProductCatalog {
 						R.drawable.sell_with_design,
 						R.drawable.sell_with_design_1,
 						R.drawable.sell_with_design_2,
-						R.drawable.sell_with_design_3
+						R.drawable.sell_with_design_3,
+						"sell-with-design",
+						"Business & Entrepreneurship/Toolstack/Sell With Design - Toolstack.pdf"
 				)
 		);
 
@@ -3109,7 +3131,9 @@ public class ProductCatalog {
 						R.drawable.the_power_of_prototypes,
 						R.drawable.the_power_of_prototypes_toolstack_1,
 						R.drawable.the_power_of_prototypes_toolstack_2,
-						R.drawable.the_power_of_prototypes_toolstack_3
+						R.drawable.the_power_of_prototypes_toolstack_3,
+						"the-power-of-prototypes",
+						"Business & Entrepreneurship/Toolstack/The Power of Prototypes - Toolstack.pdf"
 				)
 		);
 
@@ -3136,7 +3160,9 @@ public class ProductCatalog {
 						R.drawable.understanding_business_metrics,
 						R.drawable.understanding_business_metrics_toolstack_1,
 						R.drawable.understanding_business_metrics_toolstack_2,
-						R.drawable.understanding_business_metrics_toolstack_3
+						R.drawable.understanding_business_metrics_toolstack_3,
+						"understanding-business-metrics",
+						"Business & Entrepreneurship/Toolstack/Understanding Business Metrics - Toolstack.pdf"
 				)
 		);
 
@@ -3163,7 +3189,9 @@ public class ProductCatalog {
 						R.drawable.validate_business_ideas,
 						R.drawable.validate_business_ideas_toolstack_1,
 						R.drawable.validate_business_ideas_toolstack_2,
-						R.drawable.validate_business_ideas_toolstack_3
+						R.drawable.validate_business_ideas_toolstack_3,
+						"validate-business-ideas",
+						"Business & Entrepreneurship/Toolstack/Validate Business Ideas - Toolstack.pdf"
 				)
 		);
 
@@ -3191,7 +3219,9 @@ public class ProductCatalog {
 						R.drawable.winning_product_research,
 						R.drawable.winning_product_research_toolstack_1,
 						R.drawable.winning_product_research_toolstack_2,
-						R.drawable.winning_product_research_toolstack_3
+						R.drawable.winning_product_research_toolstack_3,
+						"winning-product-research",
+						"Business & Entrepreneurship/Toolstack/Winning Product Research - Toolstack.pdf"
 				)
 		);
 
@@ -3218,7 +3248,9 @@ public class ProductCatalog {
 						R.drawable.your_business_plan_playbook,
 						R.drawable.your_business_plan_playbook_1,
 						R.drawable.your_business_plan_playbook_2,
-						R.drawable.your_business_plan_playbook_3
+						R.drawable.your_business_plan_playbook_3,
+						"your-business-plan-playbook",
+						"Business & Entrepreneurship/Toolstack/Your Business Plan Playbook - Toolstack.pdf"
 				)
 		);
 

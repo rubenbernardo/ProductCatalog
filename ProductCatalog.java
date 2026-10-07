@@ -930,7 +930,9 @@ public class ProductCatalog {
 						R.drawable.cost_control_that_compounds,
 						R.drawable.cost_control_that_compounds_1,
 						R.drawable.cost_control_that_compounds_2,
-						R.drawable.cost_control_that_compounds_3
+						R.drawable.cost_control_that_compounds_3,
+						"cost-control-that-compounds",
+						"Business & Entrepreneurship/Podcast/Cost Control That Compounds - Podcast.pdf"
 				)
 		);
 
@@ -964,7 +966,9 @@ public class ProductCatalog {
                         R.drawable.beyond_the_side_hustle,
 						R.drawable.beyond_the_side_hustle_1,
 						R.drawable.beyond_the_side_hustle_2,
-						R.drawable.beyond_the_side_hustle_3
+						R.drawable.beyond_the_side_hustle_3,
+						"beyond-the-side-hustle",
+						"Business & Entrepreneurship/Podcast/Beyond the Side Hustle - Podcast.pdf"
                 )
         );
 
@@ -998,7 +1002,9 @@ public class ProductCatalog {
                         R.drawable.fast_cash_freelancer,
 						R.drawable.fast_cash_freelancer_1,
 						R.drawable.fast_cash_freelancer_2,
-						R.drawable.fast_cash_freelancer_3
+						R.drawable.fast_cash_freelancer_3,
+						"fast-cash-freelancer",
+						"Business & Entrepreneurship/Podcast/Fast Cash Freelancer - Podcast.pdf"
                 )
         );
 
@@ -1032,7 +1038,9 @@ public class ProductCatalog {
                         R.drawable.hiring_without_regret,
 						R.drawable.hiring_without_regret_1,
 						R.drawable.hiring_without_regret_2,
-						R.drawable.hiring_without_regret_3
+						R.drawable.hiring_without_regret_3,
+						"hiring-without-regret",
+						"Business & Entrepreneurship/Podcast/Hiring Without Regret - Podcast.pdf"
                 )
         );
 		
@@ -1066,7 +1074,9 @@ public class ProductCatalog {
                         R.drawable.stores_that_convert,
 						R.drawable.stores_that_convert_1,
 						R.drawable.stores_that_convert_2,
-						R.drawable.stores_that_convert_3
+						R.drawable.stores_that_convert_3,
+						"stores-that-convert",
+						"Business & Entrepreneurship/Podcast/Stores That Convert - Podcast.pdf"
                 )
         );
 		
@@ -1100,7 +1110,9 @@ public class ProductCatalog {
                         R.drawable.the_brain_friendly_workplace,
 						R.drawable.the_brain_friendly_workplace_1,
 						R.drawable.the_brain_friendly_workplace_2,
-						R.drawable.the_brain_friendly_workplace_3
+						R.drawable.the_brain_friendly_workplace_3,
+						"the-brain-friendly-workplace",
+						"Business & Entrepreneurship/Podcast/The Brain-Friendly Workplace - Podcast.pdf"
 						
                 )
         );
@@ -1135,7 +1147,9 @@ public class ProductCatalog {
                         R.drawable.the_entrepreneur_starting_line,
 						R.drawable.the_entrepreneur_starting_line_1,
 						R.drawable.the_entrepreneur_starting_line_2,
-						R.drawable.the_entrepreneur_starting_line_3
+						R.drawable.the_entrepreneur_starting_line_3,
+						"the-entrepreneur-starting-line",
+						"Business & Entrepreneurship/Podcast/The Entrepreneur Starting Line - Podcast.pdf"
                 )
         );
 		
@@ -1169,7 +1183,9 @@ public class ProductCatalog {
                         R.drawable.the_scalable_expert_model,
 						R.drawable.the_scalable_expert_model_1,
 						R.drawable.the_scalable_expert_model_2,
-						R.drawable.the_scalable_expert_model_3
+						R.drawable.the_scalable_expert_model_3,
+						"the-scalable-expert-model",
+						"Business & Entrepreneurship/Podcast/The Scalable Expert Model - Podcast.pdf"
                 )
         );
 		
@@ -1202,7 +1218,9 @@ public class ProductCatalog {
                         R.drawable.business_cash_control,
 						R.drawable.business_cash_control_1,
 						R.drawable.business_cash_control_2,
-						R.drawable.business_cash_control_3
+						R.drawable.business_cash_control_3,
+						"business-cash-control",
+						"Business & Entrepreneurship/Podcast/Business Cash Control - Podcast.pdf"
                 )
         );
 		

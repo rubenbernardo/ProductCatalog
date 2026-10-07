@@ -1233,7 +1233,9 @@ public class ProductCatalog {
                         R.drawable.branding_errors_hidden_in_your_company_merchandise,
 						R.drawable.branding_errors_hidden_in_your_company_merchandise_1,
 						R.drawable.branding_errors_hidden_in_your_company_merchandise_2,
-						R.drawable.branding_errors_hidden_in_your_company_merchandise_3
+						R.drawable.branding_errors_hidden_in_your_company_merchandise_3,
+						"7-branding-errors-hidden-in-your-company-merchandise",
+						"Business & Entrepreneurship/Listicle/7 Branding Errors Hidden in Your Company Merchandise - Listicle.pdf"
                 )
         );
 
@@ -1260,7 +1262,9 @@ public class ProductCatalog {
                         R.drawable.business_model_blind_spots_that_kill_startups,
 						R.drawable.business_model_blind_spots_that_kill_startups_1,
 						R.drawable.business_model_blind_spots_that_kill_startups_2,
-						R.drawable.business_model_blind_spots_that_kill_startups_3
+						R.drawable.business_model_blind_spots_that_kill_startups_3,
+						"7-business-model-blind-spots-that-kill-startups",
+						"Business & Entrepreneurship/Listicle/7 Business Model Blind Spots That Kill Startups - Listicle.pdf"
                 )
         );
 
@@ -1286,7 +1290,9 @@ public class ProductCatalog {
                         R.drawable.cash_flow_mistakes_that_sink_profitable_businesses,
 						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_1,
 						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_2,
-						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_3
+						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_3,
+						"7-cash-flow-mistakes-that-sink-profitable-businesses",
+						"Business & Entrepreneurship/Listicle/7 Cash Flow Mistakes That Sink Profitable Businesses - Listicle.pdf"
                 )
         );
 
@@ -1321,7 +1327,9 @@ public class ProductCatalog {
                         R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later,
 						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_1,
 						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_2,
-						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_3
+						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_3,
+						"7-cost-cuts-that-save-cash-now-and-bleed-profit-later",
+						"Business & Entrepreneurship/Listicle/7 Cost Cuts That Save Cash Now and Bleed Profit Later - Listicle.pdf"
                 )
         );
 		
@@ -1347,7 +1355,9 @@ public class ProductCatalog {
 						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout,
 						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_1,
 						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_2,
-						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_3
+						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_3,
+						"7-mistakes-that-keep-agencies-stuck-in-chaos-and-burnout",
+						"Business & Entrepreneurship/Listicle/7 Mistakes That Keep Agencies Stuck in Chaos and Burnout - Listicle.pdf"
 				)
 		);
 
@@ -1373,7 +1383,9 @@ public class ProductCatalog {
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000,
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_1,
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_2,
-						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_3
+						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_3,
+						"7-passive-income-lies-that-cost-first-time-builders-20000",
+						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders 0,000 - Listicle.pdf"
 				)
 		);
 
@@ -1399,7 +1411,9 @@ public class ProductCatalog {
 						R.drawable.fatal_mistakes_that_kill_workshop_success,
 						R.drawable.fatal_mistakes_that_kill_workshop_success_1,
 						R.drawable.fatal_mistakes_that_kill_workshop_success_2,
-						R.drawable.fatal_mistakes_that_kill_workshop_success_3
+						R.drawable.fatal_mistakes_that_kill_workshop_success_3,
+						"12-fatal-mistakes-that-kill-workshop-success",
+						"Business & Entrepreneurship/Listicle/12 Fatal Mistakes That Kill Workshop Success - Listicle.pdf"
 				)
 		);
 
@@ -1426,7 +1440,9 @@ public class ProductCatalog {
 						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent,
 						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_1,
 						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_2,
-						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_3
+						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_3,
+						"7-workplace-policies-that-accidentally-block-neurodivergent-talent",
+						"Business & Entrepreneurship/Listicle/7 Workplace Policies That Accidentally Block Neurodivergent Talent - Listicle.pdf"
 						
 				)
 		);
@@ -1454,7 +1470,9 @@ public class ProductCatalog {
 						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big,
 						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_1,
 						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_2,
-						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_3
+						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_3,
+						"12-merchandise-secrets-that-break-the-rules-and-win-big",
+						"Business & Entrepreneurship/Listicle/12 Merchandise Secrets That Break the Rules and Win Big - Listicle.pdf"
 				)
 		);
 
@@ -1481,7 +1499,9 @@ public class ProductCatalog {
 						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait,
 						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_1,
 						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_2,
-						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_3
+						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_3,
+						"13-cash-bridge-moves-every-freelancer-needs-before-their-next-net-30-wait",
+						"Business & Entrepreneurship/Listicle/13 Cash Bridge Moves Every Freelancer Needs Before Their Next Net-30 Wait - Listicle.pdf"
 				)
 		);
 
@@ -1508,7 +1528,9 @@ public class ProductCatalog {
 						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh,
 						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_1,
 						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_2,
-						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_3
+						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_3,
+						"13-signals-your-personal-brand-needs-a-strategic-refresh",
+						"Business & Entrepreneurship/Listicle/13 Signals Your Personal Brand Needs a Strategic Refresh - Listicle.pdf"
 				)
 		);
 
@@ -1535,7 +1557,9 @@ public class ProductCatalog {
 						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones,
 						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_listcles_1,
 						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_2,
-						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_3
+						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_3,
+						"13-visual-decisions-that-separate-professional-brands-from-amateur-ones",
+						"Business & Entrepreneurship/Listicle/13 Visual Decisions That Separate Professional Brands From Amateur Ones - Listicle.pdf"
 				)
 		);
 
@@ -1561,7 +1585,9 @@ public class ProductCatalog {
 						R.drawable.business_model_checks_investors_expect_you_to_pass,
 						R.drawable.business_model_checks_investors_expect_you_to_pass_1,
 						R.drawable.business_model_checks_investors_expect_you_to_pass_2,
-						R.drawable.business_model_checks_investors_expect_you_to_pass_3
+						R.drawable.business_model_checks_investors_expect_you_to_pass_3,
+						"21-business-model-checks-investors-expect-you-to-pass",
+						"Business & Entrepreneurship/Listicle/21 Business Model Checks Investors Expect You to Pass - Listicle.pdf"
 				)
 		);
 
@@ -1588,7 +1614,9 @@ public class ProductCatalog {
 						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start,
 						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_1,
 						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_2,
-						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_3
+						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_3,
+						"21-money-traps-that-kill-first-time-businesses-before-they-start",
+						"Business & Entrepreneurship/Listicle/21 Money Traps That Kill First-Time Businesses Before They Start - Listicle.pdf"
 				)
 		);
 
@@ -1614,7 +1642,9 @@ public class ProductCatalog {
 						R.drawable.objections_that_actually_mean_they_want_to_buy,
 						R.drawable.objections_that_actually_mean_they_want_to_buy_1,
 						R.drawable.objections_that_actually_mean_they_want_to_buy_2,
-						R.drawable.objections_that_actually_mean_they_want_to_buy_3
+						R.drawable.objections_that_actually_mean_they_want_to_buy_3,
+						"21-objections-that-actually-mean-they-want-to-buy",
+						"Business & Entrepreneurship/Listicle/21 Objections That Actually Mean They Want to Buy - Listicle.pdf"
 				)
 		);
 
@@ -1640,7 +1670,9 @@ public class ProductCatalog {
 						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors,
 						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_1,
 						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_2,
-						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_3
+						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_3,
+						"21-reasons-why-you-keep-losing-candidates-to-your-competitors",
+						"Business & Entrepreneurship/Listicle/21 Reasons Why You Keep Losing Candidates to Your Competitors - Listicle.pdf"
 				)
 		);
 
@@ -1666,7 +1698,9 @@ public class ProductCatalog {
 						R.drawable.workshop_secrets_that_create_consistent_revenue,
 						R.drawable.workshop_secrets_that_create_consistent_revenue_1,
 						R.drawable.workshop_secrets_that_create_consistent_revenue_2,
-						R.drawable.workshop_secrets_that_create_consistent_revenue_3
+						R.drawable.workshop_secrets_that_create_consistent_revenue_3,
+						"21-workshop-secrets-that-create-consistent-revenue",
+						"Business & Entrepreneurship/Listicle/21 Workshop Secrets That Create Consistent Revenue - Listicle.pdf"
 				)
 		);
 		
@@ -1692,7 +1726,9 @@ public class ProductCatalog {
 						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses,
 						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_1,
 						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_2,
-						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_3
+						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_3,
+						"7-critical-mistakes-that-sabotage-most-swot-analyses",
+						"Business & Entrepreneurship/Listicle/7 Critical Mistakes That Sabotage Most SWOT Analyses - Listicle.pdf"
 				)
 		);
 		

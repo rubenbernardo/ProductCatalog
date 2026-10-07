@@ -2095,7 +2095,9 @@ public class ProductCatalog {
 						R.drawable.agency_transformation_assistant,
 						R.drawable.agency_transformation_assistant_1,
 						R.drawable.agency_transformation_assistant_2,
-						R.drawable.agency_transformation_assistant_3
+						R.drawable.agency_transformation_assistant_3,
+						"agency-transformation-assistant",
+						"Business & Entrepreneurship/Prompts/Agency Transformation Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2121,7 +2123,9 @@ public class ProductCatalog {
 						R.drawable.build_your_high_ticket_service_business,
 						R.drawable.build_your_high_ticket_service_business_1,
 						R.drawable.build_your_high_ticket_service_business_2,
-						R.drawable.build_your_high_ticket_service_business_3
+						R.drawable.build_your_high_ticket_service_business_3,
+						"build-your-high-ticket-service-business",
+						"Business & Entrepreneurship/Prompts/Build Your High-Ticket Service Business - Prompts.pdf"
 				)
 		);
 
@@ -2149,7 +2153,9 @@ public class ProductCatalog {
 						R.drawable.control_your_business_cash_flow,
 						R.drawable.control_your_business_cash_flow_1,
 						R.drawable.control_your_business_cash_flow_2,
-						R.drawable.control_your_business_cash_flow_3
+						R.drawable.control_your_business_cash_flow_3,
+						"control-your-business-cash-flow",
+						"Business & Entrepreneurship/Prompts/Control Your Business Cash Flow - Prompts.pdf"
 				)
 		);
 
@@ -2175,7 +2181,9 @@ public class ProductCatalog {
 						R.drawable.first_time_entrepreneurs_launch_assistant,
 						R.drawable.first_time_entrepreneurs_launch_assistant_1,
 						R.drawable.first_time_entrepreneurs_launch_assistant_2,
-						R.drawable.first_time_entrepreneurs_launch_assistant_3
+						R.drawable.first_time_entrepreneurs_launch_assistant_3,
+						"first-time-entrepreneurs-launch-assistant",
+						"Business & Entrepreneurship/Prompts/First-Time Entrepreneurs Launch Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2203,7 +2211,9 @@ public class ProductCatalog {
 						R.drawable.create_professional_visual_identity,
 						R.drawable.create_professional_visual_identity_1,
 						R.drawable.create_professional_visual_identity_2,
-						R.drawable.create_professional_visual_identity_3
+						R.drawable.create_professional_visual_identity_3,
+						"create-professional-visual-identity",
+						"Business & Entrepreneurship/Prompts/Create Professional Visual Identity - Prompts.pdf"
 				)
 		);
 
@@ -2230,7 +2240,9 @@ public class ProductCatalog {
 						R.drawable.mastering_confident_sales_closing,
 						R.drawable.mastering_confident_sales_closing_1,
 						R.drawable.mastering_confident_sales_closing_2,
-						R.drawable.mastering_confident_sales_closing_3
+						R.drawable.mastering_confident_sales_closing_3,
+						"mastering-confident-sales-closing",
+						"Business & Entrepreneurship/Prompts/Mastering Confident Sales Closing - Prompts.pdf"
 				)
 		);
 
@@ -2257,7 +2269,9 @@ public class ProductCatalog {
 						R.drawable.neuroinclusive_leadership_copilot,
 						R.drawable.neuroinclusive_leadership_copilot_1,
 						R.drawable.neuroinclusive_leadership_copilot_2,
-						R.drawable.neuroinclusive_leadership_copilot_3
+						R.drawable.neuroinclusive_leadership_copilot_3,
+						"neuroinclusive-leadership-copilot",
+						"Business & Entrepreneurship/Prompts/Neuroinclusive Leadership Copilot - Prompts.pdf"
 				)
 		);
 
@@ -2283,7 +2297,9 @@ public class ProductCatalog {
 						R.drawable.passive_income_build_systematize,
 						R.drawable.passive_income_build_systematize_1,
 						R.drawable.passive_income_build_systematize_2,
-						R.drawable.passive_income_build_systematize_3
+						R.drawable.passive_income_build_systematize_3,
+						"passive-income-build-systematize",
+						"Business & Entrepreneurship/Prompts/Passive Income Build & Systematize - Prompts.pdf"
 				)
 		);
 
@@ -2310,7 +2326,9 @@ public class ProductCatalog {
 						R.drawable.strategic_brand_evolution,
 						R.drawable.strategic_brand_evolution_1,
 						R.drawable.strategic_brand_evolution_2,
-						R.drawable.strategic_brand_evolution_3
+						R.drawable.strategic_brand_evolution_3,
+						"strategic-brand-evolution",
+						"Business & Entrepreneurship/Prompts/Strategic Brand Evolution - Prompts.pdf"
 				)
 		);
 
@@ -2336,7 +2354,9 @@ public class ProductCatalog {
 						R.drawable.strategic_cost_reduction,
 						R.drawable.strategic_cost_reduction_1,
 						R.drawable.strategic_cost_reduction_2,
-						R.drawable.strategic_cost_reduction_3
+						R.drawable.strategic_cost_reduction_3,
+						"strategic-cost-reduction",
+						"Business & Entrepreneurship/Prompts/Strategic Cost Reduction - Prompts.pdf"
 				)
 		);
 
@@ -2363,7 +2383,9 @@ public class ProductCatalog {
 						R.drawable.strategic_planning_assistant,
 						R.drawable.strategic_planning_assistant_1,
 						R.drawable.strategic_planning_assistant_2,
-						R.drawable.strategic_planning_assistant_3
+						R.drawable.strategic_planning_assistant_3,
+						"strategic-planning-assistant",
+						"Business & Entrepreneurship/Prompts/Strategic Planning Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2389,7 +2411,9 @@ public class ProductCatalog {
 						R.drawable.talent_acquisition_assistant,
 						R.drawable.talent_acquisition_assistant_1,
 						R.drawable.talent_acquisition_assistant_2,
-						R.drawable.talent_acquisition_assistant_3
+						R.drawable.talent_acquisition_assistant_3,
+						"talent-acquisition-assistant",
+						"Business & Entrepreneurship/Prompts/Talent Acquisition Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2416,7 +2440,9 @@ public class ProductCatalog {
 						R.drawable.the_e_commerce_store_architect,
 						R.drawable.the_e_commerce_store_architect_1,
 						R.drawable.the_e_commerce_store_architect_2,
-						R.drawable.the_e_commerce_store_architect_3
+						R.drawable.the_e_commerce_store_architect_3,
+						"the-e-commerce-store-architect",
+						"Business & Entrepreneurship/Prompts/The E-Commerce Store Architect - Prompts.pdf"
 				)
 		);
 
@@ -2442,7 +2468,9 @@ public class ProductCatalog {
 						R.drawable.the_freelancers_fast_cash_strategies,
 						R.drawable.the_freelancers_fast_cash_strategies_1,
 						R.drawable.the_freelancers_fast_cash_strategies_2,
-						R.drawable.the_freelancers_fast_cash_strategies_3
+						R.drawable.the_freelancers_fast_cash_strategies_3,
+						"the-freelancers-fast-cash-strategies",
+						"Business & Entrepreneurship/Prompts/The Freelancer’s Fast Cash Strategies - Prompts.pdf"
 				)
 		);
 

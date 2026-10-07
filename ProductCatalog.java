@@ -1722,7 +1722,9 @@ public class ProductCatalog {
 						R.drawable.audit_your_plan_before_you_commit_capital,
 						R.drawable.audit_your_plan_before_you_commit_capital_1,
 						R.drawable.audit_your_plan_before_you_commit_capital_2,
-						R.drawable.audit_your_plan_before_you_commit_capital_3
+						R.drawable.audit_your_plan_before_you_commit_capital_3,
+						"audit-your-plan-before-you-commit-capital",
+						"Business & Entrepreneurship/Checklist/Audit Your Plan Before You Commit Capital Checklist.pdf"
 				)
 		);
 
@@ -1748,7 +1750,9 @@ public class ProductCatalog {
 						R.drawable.is_your_marketplace_listing_ready_to_publish,
 						R.drawable.is_your_marketplace_listing_ready_to_publish_1,
 						R.drawable.is_your_marketplace_listing_ready_to_publish_2,
-						R.drawable.is_your_marketplace_listing_ready_to_publish_3
+						R.drawable.is_your_marketplace_listing_ready_to_publish_3,
+						"is-your-marketplace-listing-ready-to-publish",
+						"Business & Entrepreneurship/Checklist/Is Your Marketplace Listing Ready to Publish Checklist.pdf"
 				)
 		);
 
@@ -1775,7 +1779,9 @@ public class ProductCatalog {
 						R.drawable.kill_the_franken_stack,
 						R.drawable.kill_the_franken_stack_1,
 						R.drawable.kill_the_franken_stack_2,
-						R.drawable.kill_the_franken_stack_3
+						R.drawable.kill_the_franken_stack_3,
+						"kill-the-franken-stack",
+						"Business & Entrepreneurship/Checklist/Kill the Franken-Stack Checklist.pdf"
 				)
 		);
 
@@ -1802,7 +1808,9 @@ public class ProductCatalog {
 						R.drawable.minimum_viable_offer_design,
 						R.drawable.minimum_viable_offer_design_1,
 						R.drawable.minimum_viable_offer_design_2,
-						R.drawable.minimum_viable_offer_design_3
+						R.drawable.minimum_viable_offer_design_3,
+						"minimum-viable-offer-design",
+						"Business & Entrepreneurship/Checklist/Minimum Viable Offer Design - Checklist.pdf"
 				)
 		);
 
@@ -1828,7 +1836,9 @@ public class ProductCatalog {
 						R.drawable.outcome_based_job_posting_creation,
 						R.drawable.outcome_based_job_posting_creation_1,
 						R.drawable.outcome_based_job_posting_creation_2,
-						R.drawable.outcome_based_job_posting_creation_3
+						R.drawable.outcome_based_job_posting_creation_3,
+						"outcome-based-job-posting-creation",
+						"Business & Entrepreneurship/Checklist/Outcome-Based Job Posting Creation Checklist.pdf"
 				)
 		);
 
@@ -1854,7 +1864,9 @@ public class ProductCatalog {
 						R.drawable.pre_launch_brand_kit_setup,
 						R.drawable.pre_launch_brand_kit_setup_1,
 						R.drawable.pre_launch_brand_kit_setup_2,
-						R.drawable.pre_launch_brand_kit_setup_3
+						R.drawable.pre_launch_brand_kit_setup_3,
+						"pre-launch-brand-kit-setup",
+						"Business & Entrepreneurship/Checklist/Pre-Launch Brand Kit Setup Checklist.pdf"
 				)
 		);
 
@@ -1880,7 +1892,9 @@ public class ProductCatalog {
 						R.drawable.pre_launch_store_validation,
 						R.drawable.pre_launch_store_validation_1,
 						R.drawable.pre_launch_store_validation_2,
-						R.drawable.pre_launch_store_validation_3
+						R.drawable.pre_launch_store_validation_3,
+						"pre-launch-store-validation",
+						"Business & Entrepreneurship/Checklist/Pre-Launch Store Validation Checklist.pdf"
 				)
 		);
 
@@ -1906,7 +1920,9 @@ public class ProductCatalog {
 						R.drawable.red_light_emergency_protocol,
 						R.drawable.red_light_emergency_protocol_1,
 						R.drawable.red_light_emergency_protocol_2,
-						R.drawable.red_light_emergency_protocol_3
+						R.drawable.red_light_emergency_protocol_3,
+						"red-light-emergency-protocol",
+						"Business & Entrepreneurship/Checklist/Red Light Emergency Protocol - Checklist.pdf"
 				)
 		);
 
@@ -1932,7 +1948,9 @@ public class ProductCatalog {
 						R.drawable.the_brain_friendly_hiring,
 						R.drawable.the_brain_friendly_hiring_1,
 						R.drawable.the_brain_friendly_hiring_2,
-						R.drawable.the_brain_friendly_hiring_3
+						R.drawable.the_brain_friendly_hiring_3,
+						"the-brain-friendly-hiring",
+						"Business & Entrepreneurship/Checklist/The Brain-Friendly Hiring Checklist.pdf"
 				)
 		);
 
@@ -1958,7 +1976,9 @@ public class ProductCatalog {
 						R.drawable.the_scalable_service_delivery_setup,
 						R.drawable.the_scalable_service_delivery_setup_1,
 						R.drawable.the_scalable_service_delivery_setup_2,
-						R.drawable.the_scalable_service_delivery_setup_3
+						R.drawable.the_scalable_service_delivery_setup_3,
+						"the-scalable-service-delivery-setup",
+						"Business & Entrepreneurship/Checklist/The Scalable Service Delivery Setup Checklist.pdf"
 				)
 		);
 

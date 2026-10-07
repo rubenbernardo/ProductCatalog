@@ -141,7 +141,7 @@ public class ProductCatalog {
 						R.drawable.pick_your_passive_income_stream,
 						R.drawable.pick_your_passive_income_stream_1,
 						R.drawable.pick_your_passive_income_stream_2,
-						R.drawable.pick_your_passive_income_stream_3
+						R.drawable.pick_your_passive_income_stream_3,
 						"pick-your-passive-income-stream",
 						"Business & Entrepreneurship/Books/Pick Your Passive Income Stream - Ebook.pdf"
 						
@@ -184,7 +184,7 @@ public class ProductCatalog {
 						R.drawable.the_freelancers_cash_bridge,
 						R.drawable.the_freelancers_cash_bridge_1,
 						R.drawable.the_freelancers_cash_bridge_2,
-						R.drawable.the_freelancers_cash_bridge_3
+						R.drawable.the_freelancers_cash_bridge_3,
 						"the-freelancers-cash-bridge",
 						"Business & Entrepreneurship/Books/The Freelancer's Cash Bridge - Book.pdf"
 				)
@@ -226,7 +226,7 @@ public class ProductCatalog {
 						R.drawable.agency_growth_blueprint,
 						R.drawable.agency_growth_blueprint_1,
 						R.drawable.agency_growth_blueprint_2,
-						R.drawable.agency_growth_blueprint_3
+						R.drawable.agency_growth_blueprint_3,
 						"agency-growth-blueprint",
 						"Business & Entrepreneurship/Books/Agency Growth Blueprint - Ebook.pdf"
 						
@@ -270,7 +270,7 @@ public class ProductCatalog {
 						R.drawable.build_an_ecommerce_store_that_sells,
 						R.drawable.build_an_ecommerce_store_that_sells_1,
 						R.drawable.build_an_ecommerce_store_that_sells_2,
-						R.drawable.build_an_ecommerce_store_that_sells_3
+						R.drawable.build_an_ecommerce_store_that_sells_3,
 						"build-an-ecommerce-store-that-sells",
 						"Business & Entrepreneurship/Books/Build an Ecommerce Store That Sells - Ebook.pdf"
 				)
@@ -313,7 +313,7 @@ public class ProductCatalog {
 						R.drawable.creating_the_perfect_customer_experience,
 						R.drawable.creating_the_perfect_customer_experience_1,
 						R.drawable.creating_the_perfect_customer_experience_2,
-						R.drawable.creating_the_perfect_customer_experience_3
+						R.drawable.creating_the_perfect_customer_experience_3,
 						"creating-the-perfect-customer-experience",
 						"Business & Entrepreneurship/Books/Creating the Perfect Customer Experience - Ebook.pdf"
 				)
@@ -356,7 +356,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_consistent_visual_identity,
 						R.drawable.how_to_build_a_consistent_visual_identity_1,
 						R.drawable.how_to_build_a_consistent_visual_identity_2,
-						R.drawable.how_to_build_a_consistent_visual_identity_3
+						R.drawable.how_to_build_a_consistent_visual_identity_3,
 						"how-to-build-a-consistent-visual-identity",
 						"Business & Entrepreneurship/Books/How to Build a Consistent Visual Identity - Book.pdf"
 				)
@@ -399,7 +399,7 @@ public class ProductCatalog {
 						R.drawable.how_to_franchise_your_business,
 						R.drawable.how_to_franchise_your_business_1,
 						R.drawable.how_to_franchise_your_business_2,
-						R.drawable.how_to_franchise_your_business_3
+						R.drawable.how_to_franchise_your_business_3,
 						"how-to-franchise-your-business",
 						"Business & Entrepreneurship/Books/How to Franchise Your Business - Ebook.pdf"
 				)
@@ -441,7 +441,7 @@ public class ProductCatalog {
 						R.drawable.merch_that_sticks,
 						R.drawable.merch_that_sticks_1,
 						R.drawable.merch_that_sticks_2,
-						R.drawable.merch_that_sticks_3
+						R.drawable.merch_that_sticks_3,
 						"merch-that-sticks",
 						"Business & Entrepreneurship/Books/Merch That Sticks - Ebook.pdf"
 				)
@@ -484,7 +484,7 @@ public class ProductCatalog {
 						R.drawable.package_that_you_know_into_a_high_ticket_offer,
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_1,
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_2,
-						R.drawable.package_that_you_know_into_a_high_ticket_offer_3
+						R.drawable.package_that_you_know_into_a_high_ticket_offer_3,
 						"package-what-you-know-into-a-high-ticket-offer",
 						"Business & Entrepreneurship/Books/Package What You Know Into a High-Ticket Offer - Ebook.pdf"
 				)
@@ -527,7 +527,7 @@ public class ProductCatalog {
 						R.drawable.swot_analysis_simplified,
 						R.drawable.swot_analysis_simplified_1,
 						R.drawable.swot_analysis_simplified_2,
-						R.drawable.swot_analysis_simplified_3
+						R.drawable.swot_analysis_simplified_3,
 						"swot-analysis-simplified",
 						"Business & Entrepreneurship/Books/SWOT Analysis Simplified - Ebook.pdf"
 				)
@@ -570,7 +570,7 @@ public class ProductCatalog {
 						R.drawable.the_brand_evolution_system_for_modern_creators,
 						R.drawable.the_brand_evolution_system_for_modern_creators_1,
 						R.drawable.the_brand_evolution_system_for_modern_creators_2,
-						R.drawable.the_brand_evolution_system_for_modern_creators_3
+						R.drawable.the_brand_evolution_system_for_modern_creators_3,
 						"the-brand-evolution-system-for-modern-creators",
 						"Business & Entrepreneurship/Books/The Brand Evolution System for Modern Creators - Ebook.pdf"
 				)
@@ -611,7 +611,7 @@ public class ProductCatalog {
 						R.drawable.the_business_model_blueprint,
 						R.drawable.the_business_model_blueprint_1,
 						R.drawable.the_business_model_blueprint_2,
-						R.drawable.the_business_model_blueprint_3
+						R.drawable.the_business_model_blueprint_3,
 						"the-business-model-blueprint",
 						"Business & Entrepreneurship/Books/The Business Model Blueprint - Ebook.pdf"
 				)
@@ -654,7 +654,7 @@ public class ProductCatalog {
 						R.drawable.the_cash_flow_system_for_small_businesses,
 						R.drawable.the_cash_flow_system_for_small_businesses_1,
 						R.drawable.the_cash_flow_system_for_small_businesses_2,
-						R.drawable.the_cash_flow_system_for_small_businesses_3
+						R.drawable.the_cash_flow_system_for_small_businesses_3,
 						"the-cash-flow-system-for-small-businesses",
 						"Business & Entrepreneurship/Books/The Cash Flow System for Small Businesses - Ebook.pdf"
 				)
@@ -698,7 +698,7 @@ public class ProductCatalog {
 						R.drawable.the_first_time_entrepreneur_launchpad,
 						R.drawable.the_first_time_entrepreneur_launchpad_1,
 						R.drawable.the_first_time_entrepreneur_launchpad_2,
-						R.drawable.the_first_time_entrepreneur_launchpad_3
+						R.drawable.the_first_time_entrepreneur_launchpad_3,
 						"the-first-time-entrepreneur-launchpad",
 						"Business & Entrepreneurship/Books/The First Time Entrepreneur Launchpad - Book.pdf"
 				)
@@ -742,7 +742,7 @@ public class ProductCatalog {
 						R.drawable.the_neuroinclusive_managers_playbook,
 						R.drawable.the_neuroinclusive_managers_playbook_1,
 						R.drawable.the_neuroinclusive_managers_playbook_2,
-						R.drawable.the_neuroinclusive_managers_playbook_3
+						R.drawable.the_neuroinclusive_managers_playbook_3,
 						"the-neuroinclusive-managers-playbook",
 						"Business & Entrepreneurship/Books/The Neuroinclusive Manager's Playbook - Ebook.pdf"
 				)
@@ -779,7 +779,7 @@ public class ProductCatalog {
 						R.drawable.the_psychology_of_closing,
 						R.drawable.the_psychology_of_closing_1,
 						R.drawable.the_psychology_of_closing_2,
-						R.drawable.the_psychology_of_closing_3
+						R.drawable.the_psychology_of_closing_3,
 						"the-psychology-of-closing",
 						"Business & Entrepreneurship/Books/The Psychology of Closing - Ebook.pdf"
 				)
@@ -816,7 +816,7 @@ public class ProductCatalog {
 						R.drawable.turn_sales_into_predictable_growth,
 						R.drawable.turn_sales_into_predictable_growth_1,
 						R.drawable.turn_sales_into_predictable_growth_2,
-						R.drawable.turn_sales_into_predictable_growth_3
+						R.drawable.turn_sales_into_predictable_growth_3,
 						"turn-sales-into-predictable-growth",
 						"Business & Entrepreneurship/Books/Turn Sales Into Predictable Growth - Ebook.pdf"
 				)
@@ -853,7 +853,7 @@ public class ProductCatalog {
 						R.drawable.turn_your_expertise_into_5k_workshop_days,
 						R.drawable.turn_your_expertise_into_5k_workshop_days_1,
 						R.drawable.turn_your_expertise_into_5k_workshop_days_2,
-						R.drawable.turn_your_expertise_into_5k_workshop_days_3
+						R.drawable.turn_your_expertise_into_5k_workshop_days_3,
 						"turn-your-expertise-into-5k-workshop-days",
 						"Business & Entrepreneurship/Books/Turn Your Expertise Into $5K Workshop Days - Ebook.pdf"
 				)
@@ -890,7 +890,7 @@ public class ProductCatalog {
 						R.drawable.visual_selling,
 						R.drawable.visual_selling_1,
 						R.drawable.visual_selling_2,
-						R.drawable.visual_selling_3
+						R.drawable.visual_selling_3,
 						"visual-selling",
 						"Business & Entrepreneurship/Books/Visual Selling - Ebook.pdf"
 				)
@@ -1403,8 +1403,8 @@ public class ProductCatalog {
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_2,
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_3,
 						"7-passive-income-lies-that-cost-first-time-builders-20000",
-						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders 
-0,000 - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders $20,000 - Listicle.pdf"
+						
 				)
 		);
 
@@ -2805,8 +2805,6 @@ public class ProductCatalog {
 
 						"<b>Use this toolstack to simplify your agency operations, reduce unnecessary manual work, organize your systems, and build a smoother foundation for efficient growth.</b>",
 						R.drawable.agency_operations_scaling,
-						"agency-operations-scaling",
-						"Business & Entrepreneurship/Toolstack/Agency Operations & Scaling - Toolstack.pdf",
 						R.drawable.agency_operations_scaling_1,
 						R.drawable.agency_operations_scaling_2,
 						R.drawable.agency_operations_scaling_3,
@@ -3284,7 +3282,7 @@ public class ProductCatalog {
 						R.drawable.confidently_close_every_call_2,
 						R.drawable.confidently_close_every_call_workbook_1,
 						R.drawable.confidently_close_every_call_workbook_2,
-						R.drawable.confidently_close_every_call_workbook_3
+						R.drawable.confidently_close_every_call_workbook_3,
 						"confidently-close-every-call-workbook",
 						"Business & Entrepreneurship/Workbook/Confidently Close Every Call - Workbook.pdf"
 
@@ -3314,7 +3312,7 @@ public class ProductCatalog {
 						R.drawable.faceless_creator,
 						R.drawable.faceless_creator_1,
 						R.drawable.faceless_creator_2,
-						R.drawable.faceless_creator_3
+						R.drawable.faceless_creator_3,
 						"faceless-creator-workbook",
 						"Business & Entrepreneurship/Workbook/Faceless Creator - Workbook.pdf"
 
@@ -3343,7 +3341,7 @@ public class ProductCatalog {
 						R.drawable.high_ticket_affiliate_marketing_2,
 						R.drawable.high_ticket_affiliate_marketing_workbook_1,
 						R.drawable.high_ticket_affiliate_marketing_workbook_2,
-						R.drawable.high_ticket_affiliate_marketing_workbook_3
+						R.drawable.high_ticket_affiliate_marketing_workbook_3,
 						"high-ticket-affiliate-marketing-workbook",
 						"Business & Entrepreneurship/Workbook/High-Ticket Affiliate Marketing - Workbook.pdf"
 
@@ -3372,7 +3370,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_website_2,
 						R.drawable.how_to_build_a_website_workbook_1,
 						R.drawable.how_to_build_a_website_workbook_2,
-						R.drawable.how_to_build_a_website_workbook_3
+						R.drawable.how_to_build_a_website_workbook_3,
 						"how-to-build-a-website-workbook",
 						"Business & Entrepreneurship/Workbook/How to Build a Website - Workbook.pdf"
 
@@ -3402,7 +3400,7 @@ public class ProductCatalog {
 						R.drawable.microsaas_success_blueprint_2,
 						R.drawable.microsaas_success_blueprint_workbook_1,
 						R.drawable.microsaas_success_blueprint_workbook_2,
-						R.drawable.microsaas_success_blueprint_workbook_3
+						R.drawable.microsaas_success_blueprint_workbook_3,
 						"microsaas-success-blueprint-workbook",
 						"Business & Entrepreneurship/Workbook/MicroSaas Success Blueprint - Workbook.pdf"
 
@@ -3431,7 +3429,7 @@ public class ProductCatalog {
 						R.drawable.money_psychology_in_business,
 						R.drawable.money_psychology_in_business_worbook_1,
 						R.drawable.money_psychology_in_business_worbook_2,
-						R.drawable.money_psychology_in_business_worbook_3
+						R.drawable.money_psychology_in_business_worbook_3,
 						"money-psychology-in-business-workbook",
 						"Business & Entrepreneurship/Workbook/Money Psychology in Business - Workbook.pdf"
 
@@ -3461,7 +3459,7 @@ public class ProductCatalog {
 						R.drawable.the_power_of_prototypes_2,
 						R.drawable.the_power_of_prototypes_workbook_1,
 						R.drawable.the_power_of_prototypes_workbook_2,
-						R.drawable.the_power_of_prototypes_workbook_3
+						R.drawable.the_power_of_prototypes_workbook_3,
 						"the-power-of-prototypes-workbook",
 						"Business & Entrepreneurship/Workbook/The Power of Prototypes - Workbook.pdf"
 
@@ -3490,7 +3488,7 @@ public class ProductCatalog {
 						R.drawable.understanding_business_metrics_2,
 						R.drawable.understanding_business_metrics_workbook_1,
 						R.drawable.understanding_business_metrics_workbook_2,
-						R.drawable.understanding_business_metrics_workbook_3
+						R.drawable.understanding_business_metrics_workbook_3,
 						"understanding-business-metrics-workbook",
 						"Business & Entrepreneurship/Workbook/Understanding Business Metrics - Workbook.pdf"
 
@@ -3519,7 +3517,7 @@ public class ProductCatalog {
 						R.drawable.validate_business_ideas_2,
 						R.drawable.validate_business_ideas_workbook_1,
 						R.drawable.validate_business_ideas_workbook_2,
-						R.drawable.validate_business_ideas_workbook_3
+						R.drawable.validate_business_ideas_workbook_3,
 						"validate-business-ideas-workbook",
 						"Business & Entrepreneurship/Workbook/Validate Business Ideas - Workbook.pdf"
 
@@ -3549,7 +3547,7 @@ public class ProductCatalog {
 						R.drawable.winning_product_research_2,
 						R.drawable.winning_product_research_workbook_1,
 						R.drawable.winning_product_research_workbook_2,
-						R.drawable.winning_product_research_workbook_3
+						R.drawable.winning_product_research_workbook_3,
 						"winning-product-research-workbook",
 						"Business & Entrepreneurship/Workbook/Winning Product Research - Workbook.pdf"
 

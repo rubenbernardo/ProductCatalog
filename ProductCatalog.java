@@ -101,7 +101,7 @@ public class ProductCatalog {
 						R.drawable.hire_right_keep_them_longer_2,
 						R.drawable.hire_right_keep_them_longer_3,
 						"hire-right-keep-them-longer",
-						"Business & Entrepreneurship/Books/Hire Right, Keep Them Longer - Book.pdf"
+						"Business & Entrepreneurship/Books/- Hire Right, Keep Them Longer - Book.pdf"
 				)
 		);
 
@@ -143,7 +143,7 @@ public class ProductCatalog {
 						R.drawable.pick_your_passive_income_stream_2,
 						R.drawable.pick_your_passive_income_stream_3,
 						"pick-your-passive-income-stream",
-						"Business & Entrepreneurship/Books/Pick Your Passive Income Stream - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Pick Your Passive Income Stream - Ebook.pdf"
 						
 				)
 		);
@@ -186,7 +186,7 @@ public class ProductCatalog {
 						R.drawable.the_freelancers_cash_bridge_2,
 						R.drawable.the_freelancers_cash_bridge_3,
 						"the-freelancers-cash-bridge",
-						"Business & Entrepreneurship/Books/The Freelancer's Cash Bridge - Book.pdf"
+						"Business & Entrepreneurship/Books/- The Freelancer's Cash Bridge - Book.pdf"
 				)
 		);
 
@@ -228,7 +228,7 @@ public class ProductCatalog {
 						R.drawable.agency_growth_blueprint_2,
 						R.drawable.agency_growth_blueprint_3,
 						"agency-growth-blueprint",
-						"Business & Entrepreneurship/Books/Agency Growth Blueprint - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Agency Growth Blueprint - Ebook.pdf"
 						
 				)
 		);
@@ -272,7 +272,7 @@ public class ProductCatalog {
 						R.drawable.build_an_ecommerce_store_that_sells_2,
 						R.drawable.build_an_ecommerce_store_that_sells_3,
 						"build-an-ecommerce-store-that-sells",
-						"Business & Entrepreneurship/Books/Build an Ecommerce Store That Sells - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Build an Ecommerce Store That Sells - Ebook.pdf"
 				)
 		);
 
@@ -315,7 +315,7 @@ public class ProductCatalog {
 						R.drawable.creating_the_perfect_customer_experience_2,
 						R.drawable.creating_the_perfect_customer_experience_3,
 						"creating-the-perfect-customer-experience",
-						"Business & Entrepreneurship/Books/Creating the Perfect Customer Experience - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Creating the Perfect Customer Experience - Ebook.pdf"
 				)
 		);
 
@@ -358,7 +358,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_consistent_visual_identity_2,
 						R.drawable.how_to_build_a_consistent_visual_identity_3,
 						"how-to-build-a-consistent-visual-identity",
-						"Business & Entrepreneurship/Books/How to Build a Consistent Visual Identity - Book.pdf"
+						"Business & Entrepreneurship/Books/- How to Build a Consistent Visual Identity - Book.pdf"
 				)
 		);
 
@@ -401,7 +401,7 @@ public class ProductCatalog {
 						R.drawable.how_to_franchise_your_business_2,
 						R.drawable.how_to_franchise_your_business_3,
 						"how-to-franchise-your-business",
-						"Business & Entrepreneurship/Books/How to Franchise Your Business - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- How to Franchise Your Business - Ebook.pdf"
 				)
 		);
 
@@ -443,7 +443,7 @@ public class ProductCatalog {
 						R.drawable.merch_that_sticks_2,
 						R.drawable.merch_that_sticks_3,
 						"merch-that-sticks",
-						"Business & Entrepreneurship/Books/Merch That Sticks - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Merch That Sticks - Ebook.pdf"
 				)
 		);
 
@@ -486,7 +486,7 @@ public class ProductCatalog {
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_2,
 						R.drawable.package_that_you_know_into_a_high_ticket_offer_3,
 						"package-what-you-know-into-a-high-ticket-offer",
-						"Business & Entrepreneurship/Books/Package What You Know Into a High-Ticket Offer - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Package What You Know Into a High-Ticket Offer - Ebook.pdf"
 				)
 		);
 
@@ -529,7 +529,7 @@ public class ProductCatalog {
 						R.drawable.swot_analysis_simplified_2,
 						R.drawable.swot_analysis_simplified_3,
 						"swot-analysis-simplified",
-						"Business & Entrepreneurship/Books/SWOT Analysis Simplified - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- SWOT Analysis Simplified - Ebook.pdf"
 				)
 		);
 
@@ -572,7 +572,7 @@ public class ProductCatalog {
 						R.drawable.the_brand_evolution_system_for_modern_creators_2,
 						R.drawable.the_brand_evolution_system_for_modern_creators_3,
 						"the-brand-evolution-system-for-modern-creators",
-						"Business & Entrepreneurship/Books/The Brand Evolution System for Modern Creators - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- The Brand Evolution System for Modern Creators - Ebook.pdf"
 				)
 		);
 
@@ -613,7 +613,7 @@ public class ProductCatalog {
 						R.drawable.the_business_model_blueprint_2,
 						R.drawable.the_business_model_blueprint_3,
 						"the-business-model-blueprint",
-						"Business & Entrepreneurship/Books/The Business Model Blueprint - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- The Business Model Blueprint - Ebook.pdf"
 				)
 		);
 
@@ -656,7 +656,7 @@ public class ProductCatalog {
 						R.drawable.the_cash_flow_system_for_small_businesses_2,
 						R.drawable.the_cash_flow_system_for_small_businesses_3,
 						"the-cash-flow-system-for-small-businesses",
-						"Business & Entrepreneurship/Books/The Cash Flow System for Small Businesses - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- The Cash Flow System for Small Businesses - Ebook.pdf"
 				)
 		);
 
@@ -700,7 +700,7 @@ public class ProductCatalog {
 						R.drawable.the_first_time_entrepreneur_launchpad_2,
 						R.drawable.the_first_time_entrepreneur_launchpad_3,
 						"the-first-time-entrepreneur-launchpad",
-						"Business & Entrepreneurship/Books/The First Time Entrepreneur Launchpad - Book.pdf"
+						"Business & Entrepreneurship/Books/- The First Time Entrepreneur Launchpad - Book.pdf"
 				)
 		);
 
@@ -744,7 +744,7 @@ public class ProductCatalog {
 						R.drawable.the_neuroinclusive_managers_playbook_2,
 						R.drawable.the_neuroinclusive_managers_playbook_3,
 						"the-neuroinclusive-managers-playbook",
-						"Business & Entrepreneurship/Books/The Neuroinclusive Manager's Playbook - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- The Neuroinclusive Manager's Playbook - Ebook.pdf"
 				)
 		);
 
@@ -781,7 +781,7 @@ public class ProductCatalog {
 						R.drawable.the_psychology_of_closing_2,
 						R.drawable.the_psychology_of_closing_3,
 						"the-psychology-of-closing",
-						"Business & Entrepreneurship/Books/The Psychology of Closing - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- The Psychology of Closing - Ebook.pdf"
 				)
 		);
 
@@ -818,7 +818,7 @@ public class ProductCatalog {
 						R.drawable.turn_sales_into_predictable_growth_2,
 						R.drawable.turn_sales_into_predictable_growth_3,
 						"turn-sales-into-predictable-growth",
-						"Business & Entrepreneurship/Books/Turn Sales Into Predictable Growth - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Turn Sales Into Predictable Growth - Ebook.pdf"
 				)
 		);
 
@@ -855,7 +855,7 @@ public class ProductCatalog {
 						R.drawable.turn_your_expertise_into_5k_workshop_days_2,
 						R.drawable.turn_your_expertise_into_5k_workshop_days_3,
 						"turn-your-expertise-into-5k-workshop-days",
-						"Business & Entrepreneurship/Books/Turn Your Expertise Into $5K Workshop Days - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Turn Your Expertise Into $5K Workshop Days - Ebook.pdf"
 				)
 		);
 
@@ -892,7 +892,7 @@ public class ProductCatalog {
 						R.drawable.visual_selling_2,
 						R.drawable.visual_selling_3,
 						"visual-selling",
-						"Business & Entrepreneurship/Books/Visual Selling - Ebook.pdf"
+						"Business & Entrepreneurship/Books/- Visual Selling - Ebook.pdf"
 				)
 		);
 
@@ -932,7 +932,7 @@ public class ProductCatalog {
 						R.drawable.cost_control_that_compounds_2,
 						R.drawable.cost_control_that_compounds_3,
 						"cost-control-that-compounds",
-						"Business & Entrepreneurship/Podcast/Cost Control That Compounds - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Cost Control That Compounds - Podcast.pdf"
 				)
 		);
 
@@ -968,7 +968,7 @@ public class ProductCatalog {
 						R.drawable.beyond_the_side_hustle_2,
 						R.drawable.beyond_the_side_hustle_3,
 						"beyond-the-side-hustle",
-						"Business & Entrepreneurship/Podcast/Beyond the Side Hustle - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Beyond the Side Hustle - Podcast.pdf"
                 )
         );
 
@@ -1004,7 +1004,7 @@ public class ProductCatalog {
 						R.drawable.fast_cash_freelancer_2,
 						R.drawable.fast_cash_freelancer_3,
 						"fast-cash-freelancer",
-						"Business & Entrepreneurship/Podcast/Fast Cash Freelancer - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Fast Cash Freelancer - Podcast.pdf"
                 )
         );
 
@@ -1040,7 +1040,7 @@ public class ProductCatalog {
 						R.drawable.hiring_without_regret_2,
 						R.drawable.hiring_without_regret_3,
 						"hiring-without-regret",
-						"Business & Entrepreneurship/Podcast/Hiring Without Regret - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Hiring Without Regret - Podcast.pdf"
                 )
         );
 		
@@ -1076,7 +1076,7 @@ public class ProductCatalog {
 						R.drawable.stores_that_convert_2,
 						R.drawable.stores_that_convert_3,
 						"stores-that-convert",
-						"Business & Entrepreneurship/Podcast/Stores That Convert - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Stores That Convert - Podcast.pdf"
                 )
         );
 		
@@ -1112,7 +1112,7 @@ public class ProductCatalog {
 						R.drawable.the_brain_friendly_workplace_2,
 						R.drawable.the_brain_friendly_workplace_3,
 						"the-brain-friendly-workplace",
-						"Business & Entrepreneurship/Podcast/The Brain-Friendly Workplace - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- The Brain-Friendly Workplace - Podcast.pdf"
 						
                 )
         );
@@ -1149,7 +1149,7 @@ public class ProductCatalog {
 						R.drawable.the_entrepreneur_starting_line_2,
 						R.drawable.the_entrepreneur_starting_line_3,
 						"the-entrepreneur-starting-line",
-						"Business & Entrepreneurship/Podcast/The Entrepreneur Starting Line - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- The Entrepreneur Starting Line - Podcast.pdf"
                 )
         );
 		
@@ -1185,7 +1185,7 @@ public class ProductCatalog {
 						R.drawable.the_scalable_expert_model_2,
 						R.drawable.the_scalable_expert_model_3,
 						"the-scalable-expert-model",
-						"Business & Entrepreneurship/Podcast/The Scalable Expert Model - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- The Scalable Expert Model - Podcast.pdf"
                 )
         );
 		
@@ -1220,7 +1220,7 @@ public class ProductCatalog {
 						R.drawable.business_cash_control_2,
 						R.drawable.business_cash_control_3,
 						"business-cash-control",
-						"Business & Entrepreneurship/Podcast/Business Cash Control - Podcast.pdf"
+						"Business & Entrepreneurship/Podcast/- Business Cash Control - Podcast.pdf"
                 )
         );
 		
@@ -1253,7 +1253,7 @@ public class ProductCatalog {
 						R.drawable.branding_errors_hidden_in_your_company_merchandise_2,
 						R.drawable.branding_errors_hidden_in_your_company_merchandise_3,
 						"7-branding-errors-hidden-in-your-company-merchandise",
-						"Business & Entrepreneurship/Listicle/7 Branding Errors Hidden in Your Company Merchandise - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Branding Errors Hidden in Your Company Merchandise - Listicle.pdf"
                 )
         );
 
@@ -1282,7 +1282,7 @@ public class ProductCatalog {
 						R.drawable.business_model_blind_spots_that_kill_startups_2,
 						R.drawable.business_model_blind_spots_that_kill_startups_3,
 						"7-business-model-blind-spots-that-kill-startups",
-						"Business & Entrepreneurship/Listicle/7 Business Model Blind Spots That Kill Startups - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Business Model Blind Spots That Kill Startups - Listicle.pdf"
                 )
         );
 
@@ -1310,7 +1310,7 @@ public class ProductCatalog {
 						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_2,
 						R.drawable.cash_flow_mistakes_that_sink_profitable_businesses_3,
 						"7-cash-flow-mistakes-that-sink-profitable-businesses",
-						"Business & Entrepreneurship/Listicle/7 Cash Flow Mistakes That Sink Profitable Businesses - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Cash Flow Mistakes That Sink Profitable Businesses - Listicle.pdf"
                 )
         );
 
@@ -1347,7 +1347,7 @@ public class ProductCatalog {
 						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_2,
 						R.drawable.cost_cuts_that_save_cash_now_and_bleed_profit_later_3,
 						"7-cost-cuts-that-save-cash-now-and-bleed-profit-later",
-						"Business & Entrepreneurship/Listicle/7 Cost Cuts That Save Cash Now and Bleed Profit Later - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Cost Cuts That Save Cash Now and Bleed Profit Later - Listicle.pdf"
                 )
         );
 		
@@ -1375,7 +1375,7 @@ public class ProductCatalog {
 						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_2,
 						R.drawable.mistakes_that_keep_agencies_stuck_in_chaos_and_burnout_3,
 						"7-mistakes-that-keep-agencies-stuck-in-chaos-and-burnout",
-						"Business & Entrepreneurship/Listicle/7 Mistakes That Keep Agencies Stuck in Chaos and Burnout - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Mistakes That Keep Agencies Stuck in Chaos and Burnout - Listicle.pdf"
 				)
 		);
 
@@ -1403,7 +1403,7 @@ public class ProductCatalog {
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_2,
 						R.drawable.passive_income_lies_that_cost_first_time_builders_20000_3,
 						"7-passive-income-lies-that-cost-first-time-builders-20000",
-						"Business & Entrepreneurship/Listicle/7 Passive Income Lies That Cost First-Time Builders $20,000 - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Passive Income Lies That Cost First-Time Builders $20,000 - Listicle.pdf"
 						
 				)
 		);
@@ -1432,7 +1432,7 @@ public class ProductCatalog {
 						R.drawable.fatal_mistakes_that_kill_workshop_success_2,
 						R.drawable.fatal_mistakes_that_kill_workshop_success_3,
 						"12-fatal-mistakes-that-kill-workshop-success",
-						"Business & Entrepreneurship/Listicle/12 Fatal Mistakes That Kill Workshop Success - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 12 Fatal Mistakes That Kill Workshop Success - Listicle.pdf"
 				)
 		);
 
@@ -1461,7 +1461,7 @@ public class ProductCatalog {
 						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_2,
 						R.drawable.workplace_policies_that_accidentally_block_neurodivergent_talent_3,
 						"7-workplace-policies-that-accidentally-block-neurodivergent-talent",
-						"Business & Entrepreneurship/Listicle/7 Workplace Policies That Accidentally Block Neurodivergent Talent - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Workplace Policies That Accidentally Block Neurodivergent Talent - Listicle.pdf"
 						
 				)
 		);
@@ -1491,7 +1491,7 @@ public class ProductCatalog {
 						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_2,
 						R.drawable.merchandise_secrets_that_break_the_rules_and_win_big_3,
 						"12-merchandise-secrets-that-break-the-rules-and-win-big",
-						"Business & Entrepreneurship/Listicle/12 Merchandise Secrets That Break the Rules and Win Big - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 12 Merchandise Secrets That Break the Rules and Win Big - Listicle.pdf"
 				)
 		);
 
@@ -1520,7 +1520,7 @@ public class ProductCatalog {
 						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_2,
 						R.drawable.cash_bridge_moves_every_freelancer_needs_before_their_next_net_30_wait_3,
 						"13-cash-bridge-moves-every-freelancer-needs-before-their-next-net-30-wait",
-						"Business & Entrepreneurship/Listicle/13 Cash Bridge Moves Every Freelancer Needs Before Their Next Net-30 Wait - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 13 Cash Bridge Moves Every Freelancer Needs Before Their Next Net-30 Wait - Listicle.pdf"
 				)
 		);
 
@@ -1549,7 +1549,7 @@ public class ProductCatalog {
 						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_2,
 						R.drawable.signals_your_personal_brand_needs_a_strategic_refresh_3,
 						"13-signals-your-personal-brand-needs-a-strategic-refresh",
-						"Business & Entrepreneurship/Listicle/13 Signals Your Personal Brand Needs a Strategic Refresh - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 13 Signals Your Personal Brand Needs a Strategic Refresh - Listicle.pdf"
 				)
 		);
 
@@ -1578,7 +1578,7 @@ public class ProductCatalog {
 						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_2,
 						R.drawable.visual_decisions_that_separate_professional_brands_from_amateur_ones_3,
 						"13-visual-decisions-that-separate-professional-brands-from-amateur-ones",
-						"Business & Entrepreneurship/Listicle/13 Visual Decisions That Separate Professional Brands From Amateur Ones - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 13 Visual Decisions That Separate Professional Brands From Amateur Ones - Listicle.pdf"
 				)
 		);
 
@@ -1606,7 +1606,7 @@ public class ProductCatalog {
 						R.drawable.business_model_checks_investors_expect_you_to_pass_2,
 						R.drawable.business_model_checks_investors_expect_you_to_pass_3,
 						"21-business-model-checks-investors-expect-you-to-pass",
-						"Business & Entrepreneurship/Listicle/21 Business Model Checks Investors Expect You to Pass - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 21 Business Model Checks Investors Expect You to Pass - Listicle.pdf"
 				)
 		);
 
@@ -1635,7 +1635,7 @@ public class ProductCatalog {
 						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_2,
 						R.drawable.money_traps_that_kill_first_time_businesses_before_they_start_3,
 						"21-money-traps-that-kill-first-time-businesses-before-they-start",
-						"Business & Entrepreneurship/Listicle/21 Money Traps That Kill First-Time Businesses Before They Start - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 21 Money Traps That Kill First-Time Businesses Before They Start - Listicle.pdf"
 				)
 		);
 
@@ -1663,7 +1663,7 @@ public class ProductCatalog {
 						R.drawable.objections_that_actually_mean_they_want_to_buy_2,
 						R.drawable.objections_that_actually_mean_they_want_to_buy_3,
 						"21-objections-that-actually-mean-they-want-to-buy",
-						"Business & Entrepreneurship/Listicle/21 Objections That Actually Mean They Want to Buy - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 21 Objections That Actually Mean They Want to Buy - Listicle.pdf"
 				)
 		);
 
@@ -1691,7 +1691,7 @@ public class ProductCatalog {
 						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_2,
 						R.drawable.reasons_why_you_keep_losing_candidates_to_your_competitors_3,
 						"21-reasons-why-you-keep-losing-candidates-to-your-competitors",
-						"Business & Entrepreneurship/Listicle/21 Reasons Why You Keep Losing Candidates to Your Competitors - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 21 Reasons Why You Keep Losing Candidates to Your Competitors - Listicle.pdf"
 				)
 		);
 
@@ -1719,7 +1719,7 @@ public class ProductCatalog {
 						R.drawable.workshop_secrets_that_create_consistent_revenue_2,
 						R.drawable.workshop_secrets_that_create_consistent_revenue_3,
 						"21-workshop-secrets-that-create-consistent-revenue",
-						"Business & Entrepreneurship/Listicle/21 Workshop Secrets That Create Consistent Revenue - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 21 Workshop Secrets That Create Consistent Revenue - Listicle.pdf"
 				)
 		);
 		
@@ -1747,7 +1747,7 @@ public class ProductCatalog {
 						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_2,
 						R.drawable.critical_mistakes_that_sabotage_most_swot_analyses_3,
 						"7-critical-mistakes-that-sabotage-most-swot-analyses",
-						"Business & Entrepreneurship/Listicle/7 Critical Mistakes That Sabotage Most SWOT Analyses - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Critical Mistakes That Sabotage Most SWOT Analyses - Listicle.pdf"
 				)
 				
 		);
@@ -1776,7 +1776,7 @@ public class ProductCatalog {
 						R.drawable.conversion_killers_hiding_on_your_product_pages_2,
 						R.drawable.conversion_killers_hiding_on_your_product_pages_3,
 						"7-conversion-killers-hiding-on-your-product-pages",
-						"Business & Entrepreneurship/Listicle/7 Conversion Killers Hiding on Your Product Pages - Listicle.pdf"
+						"Business & Entrepreneurship/Listicle/- 7 Conversion Killers Hiding on Your Product Pages - Listicle.pdf"
 				)
 				
 		);
@@ -1810,7 +1810,7 @@ public class ProductCatalog {
 						R.drawable.audit_your_plan_before_you_commit_capital_2,
 						R.drawable.audit_your_plan_before_you_commit_capital_3,
 						"audit-your-plan-before-you-commit-capital",
-						"Business & Entrepreneurship/Checklist/Audit Your Plan Before You Commit Capital Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Audit Your Plan Before You Commit Capital Checklist.pdf"
 				)
 		);
 
@@ -1838,7 +1838,7 @@ public class ProductCatalog {
 						R.drawable.is_your_marketplace_listing_ready_to_publish_2,
 						R.drawable.is_your_marketplace_listing_ready_to_publish_3,
 						"is-your-marketplace-listing-ready-to-publish",
-						"Business & Entrepreneurship/Checklist/Is Your Marketplace Listing Ready to Publish Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Is Your Marketplace Listing Ready to Publish Checklist.pdf"
 				)
 		);
 
@@ -1867,7 +1867,7 @@ public class ProductCatalog {
 						R.drawable.kill_the_franken_stack_2,
 						R.drawable.kill_the_franken_stack_3,
 						"kill-the-franken-stack",
-						"Business & Entrepreneurship/Checklist/Kill the Franken-Stack Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Kill the Franken-Stack Checklist.pdf"
 				)
 		);
 
@@ -1896,7 +1896,7 @@ public class ProductCatalog {
 						R.drawable.minimum_viable_offer_design_2,
 						R.drawable.minimum_viable_offer_design_3,
 						"minimum-viable-offer-design",
-						"Business & Entrepreneurship/Checklist/Minimum Viable Offer Design - Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Minimum Viable Offer Design - Checklist.pdf"
 				)
 		);
 
@@ -1924,7 +1924,7 @@ public class ProductCatalog {
 						R.drawable.outcome_based_job_posting_creation_2,
 						R.drawable.outcome_based_job_posting_creation_3,
 						"outcome-based-job-posting-creation",
-						"Business & Entrepreneurship/Checklist/Outcome-Based Job Posting Creation Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Outcome-Based Job Posting Creation Checklist.pdf"
 				)
 		);
 
@@ -1952,7 +1952,7 @@ public class ProductCatalog {
 						R.drawable.pre_launch_brand_kit_setup_2,
 						R.drawable.pre_launch_brand_kit_setup_3,
 						"pre-launch-brand-kit-setup",
-						"Business & Entrepreneurship/Checklist/Pre-Launch Brand Kit Setup Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Pre-Launch Brand Kit Setup Checklist.pdf"
 				)
 		);
 
@@ -1980,7 +1980,7 @@ public class ProductCatalog {
 						R.drawable.pre_launch_store_validation_2,
 						R.drawable.pre_launch_store_validation_3,
 						"pre-launch-store-validation",
-						"Business & Entrepreneurship/Checklist/Pre-Launch Store Validation Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Pre-Launch Store Validation Checklist.pdf"
 				)
 		);
 
@@ -2008,7 +2008,7 @@ public class ProductCatalog {
 						R.drawable.red_light_emergency_protocol_2,
 						R.drawable.red_light_emergency_protocol_3,
 						"red-light-emergency-protocol",
-						"Business & Entrepreneurship/Checklist/Red Light Emergency Protocol - Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- Red Light Emergency Protocol - Checklist.pdf"
 				)
 		);
 
@@ -2036,7 +2036,7 @@ public class ProductCatalog {
 						R.drawable.the_brain_friendly_hiring_2,
 						R.drawable.the_brain_friendly_hiring_3,
 						"the-brain-friendly-hiring",
-						"Business & Entrepreneurship/Checklist/The Brain-Friendly Hiring Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- The Brain-Friendly Hiring Checklist.pdf"
 				)
 		);
 
@@ -2064,7 +2064,7 @@ public class ProductCatalog {
 						R.drawable.the_scalable_service_delivery_setup_2,
 						R.drawable.the_scalable_service_delivery_setup_3,
 						"the-scalable-service-delivery-setup",
-						"Business & Entrepreneurship/Checklist/The Scalable Service Delivery Setup Checklist.pdf"
+						"Business & Entrepreneurship/Checklist/- The Scalable Service Delivery Setup Checklist.pdf"
 				)
 		);
 
@@ -2097,7 +2097,7 @@ public class ProductCatalog {
 						R.drawable.agency_transformation_assistant_2,
 						R.drawable.agency_transformation_assistant_3,
 						"agency-transformation-assistant",
-						"Business & Entrepreneurship/Prompts/Agency Transformation Assistant - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Agency Transformation Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2125,7 +2125,7 @@ public class ProductCatalog {
 						R.drawable.build_your_high_ticket_service_business_2,
 						R.drawable.build_your_high_ticket_service_business_3,
 						"build-your-high-ticket-service-business",
-						"Business & Entrepreneurship/Prompts/Build Your High-Ticket Service Business - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Build Your High-Ticket Service Business - Prompts.pdf"
 				)
 		);
 
@@ -2155,7 +2155,7 @@ public class ProductCatalog {
 						R.drawable.control_your_business_cash_flow_2,
 						R.drawable.control_your_business_cash_flow_3,
 						"control-your-business-cash-flow",
-						"Business & Entrepreneurship/Prompts/Control Your Business Cash Flow - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Control Your Business Cash Flow - Prompts.pdf"
 				)
 		);
 
@@ -2183,7 +2183,7 @@ public class ProductCatalog {
 						R.drawable.first_time_entrepreneurs_launch_assistant_2,
 						R.drawable.first_time_entrepreneurs_launch_assistant_3,
 						"first-time-entrepreneurs-launch-assistant",
-						"Business & Entrepreneurship/Prompts/First-Time Entrepreneurs Launch Assistant - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- First-Time Entrepreneurs Launch Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2213,7 +2213,7 @@ public class ProductCatalog {
 						R.drawable.create_professional_visual_identity_2,
 						R.drawable.create_professional_visual_identity_3,
 						"create-professional-visual-identity",
-						"Business & Entrepreneurship/Prompts/Create Professional Visual Identity - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Create Professional Visual Identity - Prompts.pdf"
 				)
 		);
 
@@ -2242,7 +2242,7 @@ public class ProductCatalog {
 						R.drawable.mastering_confident_sales_closing_2,
 						R.drawable.mastering_confident_sales_closing_3,
 						"mastering-confident-sales-closing",
-						"Business & Entrepreneurship/Prompts/Mastering Confident Sales Closing - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Mastering Confident Sales Closing - Prompts.pdf"
 				)
 		);
 
@@ -2271,7 +2271,7 @@ public class ProductCatalog {
 						R.drawable.neuroinclusive_leadership_copilot_2,
 						R.drawable.neuroinclusive_leadership_copilot_3,
 						"neuroinclusive-leadership-copilot",
-						"Business & Entrepreneurship/Prompts/Neuroinclusive Leadership Copilot - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Neuroinclusive Leadership Copilot - Prompts.pdf"
 				)
 		);
 
@@ -2299,7 +2299,7 @@ public class ProductCatalog {
 						R.drawable.passive_income_build_systematize_2,
 						R.drawable.passive_income_build_systematize_3,
 						"passive-income-build-systematize",
-						"Business & Entrepreneurship/Prompts/Passive Income Build & Systematize - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Passive Income Build & Systematize - Prompts.pdf"
 				)
 		);
 
@@ -2328,7 +2328,7 @@ public class ProductCatalog {
 						R.drawable.strategic_brand_evolution_2,
 						R.drawable.strategic_brand_evolution_3,
 						"strategic-brand-evolution",
-						"Business & Entrepreneurship/Prompts/Strategic Brand Evolution - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Strategic Brand Evolution - Prompts.pdf"
 				)
 		);
 
@@ -2356,7 +2356,7 @@ public class ProductCatalog {
 						R.drawable.strategic_cost_reduction_2,
 						R.drawable.strategic_cost_reduction_3,
 						"strategic-cost-reduction",
-						"Business & Entrepreneurship/Prompts/Strategic Cost Reduction - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Strategic Cost Reduction - Prompts.pdf"
 				)
 		);
 
@@ -2385,7 +2385,7 @@ public class ProductCatalog {
 						R.drawable.strategic_planning_assistant_2,
 						R.drawable.strategic_planning_assistant_3,
 						"strategic-planning-assistant",
-						"Business & Entrepreneurship/Prompts/Strategic Planning Assistant - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Strategic Planning Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2413,7 +2413,7 @@ public class ProductCatalog {
 						R.drawable.talent_acquisition_assistant_2,
 						R.drawable.talent_acquisition_assistant_3,
 						"talent-acquisition-assistant",
-						"Business & Entrepreneurship/Prompts/Talent Acquisition Assistant - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- Talent Acquisition Assistant - Prompts.pdf"
 				)
 		);
 
@@ -2442,7 +2442,7 @@ public class ProductCatalog {
 						R.drawable.the_e_commerce_store_architect_2,
 						R.drawable.the_e_commerce_store_architect_3,
 						"the-e-commerce-store-architect",
-						"Business & Entrepreneurship/Prompts/The E-Commerce Store Architect - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- The E-Commerce Store Architect - Prompts.pdf"
 				)
 		);
 
@@ -2470,7 +2470,7 @@ public class ProductCatalog {
 						R.drawable.the_freelancers_fast_cash_strategies_2,
 						R.drawable.the_freelancers_fast_cash_strategies_3,
 						"the-freelancers-fast-cash-strategies",
-						"Business & Entrepreneurship/Prompts/The Freelancer’s Fast Cash Strategies - Prompts.pdf"
+						"Business & Entrepreneurship/Prompts/- The Freelancer’s Fast Cash Strategies - Prompts.pdf"
 				)
 		);
 
@@ -2504,7 +2504,7 @@ public class ProductCatalog {
 						R.drawable.from_hourly_to_value_based_pricing_2,
 						R.drawable.from_hourly_to_value_based_pricing_3,
 						"from-hourly-to-value-based-pricing",
-						"Business & Entrepreneurship/Guide/From Hourly to Value-Based Pricing - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- From Hourly to Value-Based Pricing - Guide.pdf"
 				)
 		);
 
@@ -2534,7 +2534,7 @@ public class ProductCatalog {
 						R.drawable.productize_any_freelance_skill_in_one_weekend_2,
 						R.drawable.productize_any_freelance_skill_in_one_weekend_3,
 						"productize-any-freelance-skill-in-one-weekend",
-						"Business & Entrepreneurship/Guide/Productize Any Freelance Skill in One Weekend - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- Productize Any Freelance Skill in One Weekend - Guide.pdf"
 				)
 		);
 
@@ -2564,7 +2564,7 @@ public class ProductCatalog {
 						R.drawable.score_your_passive_income_idea_in_30_minutes_2,
 						R.drawable.score_your_passive_income_idea_in_30_minutes_3,
 						"score-your-passive-income-idea-in-30-minutes",
-						"Business & Entrepreneurship/Guide/Score Your Passive Income Idea in 30 Minutes - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- Score Your Passive Income Idea in 30 Minutes - Guide.pdf"
 				)
 		);
 
@@ -2594,7 +2594,7 @@ public class ProductCatalog {
 						R.drawable.site_speed_optimization_for_non_technical_store_owners_2,
 						R.drawable.site_speed_optimization_for_non_technical_store_owners_3,
 						"site-speed-optimization-for-non-technical-store-owners",
-						"Business & Entrepreneurship/Guide/Site Speed Optimization for Non-Technical Store Owners - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- Site Speed Optimization for Non-Technical Store Owners - Guide.pdf"
 				)
 		);
 
@@ -2624,7 +2624,7 @@ public class ProductCatalog {
 						R.drawable.stop_losing_top_talent_at_the_interview_stage_2,
 						R.drawable.stop_losing_top_talent_at_the_interview_stage_3,
 						"stop-losing-top-talent-at-the-interview-stage",
-						"Business & Entrepreneurship/Guide/Stop Losing Top Talent at the Interview Stage - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- Stop Losing Top Talent at the Interview Stage - Guide.pdf"
 				)
 		);
 
@@ -2654,7 +2654,7 @@ public class ProductCatalog {
 						R.drawable.the_30_day_lean_launch_plan_2,
 						R.drawable.the_30_day_lean_launch_plan_3,
 						"the-30-day-lean-launch-plan",
-						"Business & Entrepreneurship/Guide/The 30-Day Lean Launch Plan - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- The 30-Day Lean Launch Plan - Guide.pdf"
 				)
 		);
 
@@ -2684,7 +2684,7 @@ public class ProductCatalog {
 						R.drawable.the_four_beat_vendor_renegotiation_script_2,
 						R.drawable.the_four_beat_vendor_renegotiation_script_3,
 						"the-four-beat-vendor-renegotiation-script",
-						"Business & Entrepreneurship/Guide/The Four-Beat Vendor Renegotiation Script - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- The Four-Beat Vendor Renegotiation Script - Guide.pdf"
 				)
 		);
 
@@ -2714,7 +2714,7 @@ public class ProductCatalog {
 						R.drawable.the_structured_interview_playbook_2,
 						R.drawable.the_structured_interview_playbook_3,
 						"the-structured-interview-playbook",
-						"Business & Entrepreneurship/Guide/The Structured Interview Playbook - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- The Structured Interview Playbook - Guide.pdf"
 				)
 		);
 
@@ -2744,7 +2744,7 @@ public class ProductCatalog {
 						R.drawable.the_three_number_pricing_formula_2,
 						R.drawable.the_three_number_pricing_formula_3,
 						"the-three-number-pricing-formula",
-						"Business & Entrepreneurship/Guide/The Three-Number Pricing Formula - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- The Three-Number Pricing Formula - Guide.pdf"
 				)		
 		);
 
@@ -2774,7 +2774,7 @@ public class ProductCatalog {
 						R.drawable.the_weekend_cash_control_setup_2,
 						R.drawable.the_weekend_cash_control_setup_3,
 						"the-weekend-cash-control-setup",
-						"Business & Entrepreneurship/Guide/The Weekend Cash Control Setup - Guide.pdf"
+						"Business & Entrepreneurship/Guide/- The Weekend Cash Control Setup - Guide.pdf"
 				)
 		);
 
@@ -2809,7 +2809,7 @@ public class ProductCatalog {
 						R.drawable.agency_operations_scaling_2,
 						R.drawable.agency_operations_scaling_3,
 						"agency-operations-and-scaling",
-						"Business & Entrepreneurship/Toolstack/Agency Operations & Scaling - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Agency Operations & Scaling - Toolstack.pdf"
 				)
 		);
 
@@ -2839,7 +2839,7 @@ public class ProductCatalog {
 						R.drawable.build_positive_digital_presence_2,
 						R.drawable.build_positive_digital_presence_3,
 						"build-positive-digital-presence",
-						"Business & Entrepreneurship/Toolstack/Build Positive Digital Presence - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Build Positive Digital Presence - Toolstack.pdf"
 				)
 		);
 
@@ -2867,7 +2867,7 @@ public class ProductCatalog {
 						R.drawable.confidently_close_every_call_2_2,
 						R.drawable.confidently_close_every_call_3,
 						"confidently-close-every-call",
-						"Business & Entrepreneurship/Toolstack/Confidently Close Every Call - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Confidently Close Every Call - Toolstack.pdf"
 				)
 		);
 
@@ -2896,7 +2896,7 @@ public class ProductCatalog {
 						R.drawable.crafting_irresistible_business_offers_2,
 						R.drawable.crafting_irresistible_business_offers_3,
 						"crafting-irresistible-business-offers",
-						"Business & Entrepreneurship/Toolstack/Crafting Irresistible Business Offers - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Crafting Irresistible Business Offers - Toolstack.pdf"
 				)
 		);
 
@@ -2925,7 +2925,7 @@ public class ProductCatalog {
 						R.drawable.digital_creators_buddy_2,
 						R.drawable.digital_creators_buddy_3,
 						"digital-creators-buddy",
-						"Business & Entrepreneurship/Toolstack/Digital Creator's Buddy - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Digital Creator's Buddy - Toolstack.pdf"
 				)
 		);
 
@@ -2955,7 +2955,7 @@ public class ProductCatalog {
 						R.drawable.high_ticket_affiliate_marketing_2_2,
 						R.drawable.high_ticket_affiliate_marketing_3,
 						"high-ticket-affiliate-marketing",
-						"Business & Entrepreneurship/Toolstack/High-Ticket Affiliate Marketing - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- High-Ticket Affiliate Marketing - Toolstack.pdf"
 				)
 		);
 
@@ -2984,7 +2984,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_website_2_2,
 						R.drawable.how_to_build_a_website_3,
 						"how-to-build-a-website",
-						"Business & Entrepreneurship/Toolstack/How to Build a Website - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- How to Build a Website - Toolstack.pdf"
 				)
 		);
 
@@ -3014,7 +3014,7 @@ public class ProductCatalog {
 						R.drawable.marketing_plan_simplified_2,
 						R.drawable.marketing_plan_simplified_3,
 						"marketing-plan-simplified",
-						"Business & Entrepreneurship/Toolstack/Marketing Plan Simplified - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Marketing Plan Simplified - Toolstack.pdf"
 				)
 		);
 
@@ -3043,7 +3043,7 @@ public class ProductCatalog {
 						R.drawable.microsaas_success_blueprint_2_2,
 						R.drawable.microsaas_success_blueprint_3,
 						"microsaas-success-blueprint",
-						"Business & Entrepreneurship/Toolstack/MicroSaas Success Blueprint - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- MicroSaas Success Blueprint - Toolstack.pdf"
 				)
 		);
 
@@ -3075,7 +3075,7 @@ public class ProductCatalog {
 						R.drawable.power_up_your_brand_2,
 						R.drawable.power_up_your_brand_3,
 						"power-up-your-brand",
-						"Business & Entrepreneurship/Toolstack/Power Up Your Brand - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Power Up Your Brand - Toolstack.pdf"
 				)
 		);
 
@@ -3104,7 +3104,7 @@ public class ProductCatalog {
 						R.drawable.sell_with_design_2,
 						R.drawable.sell_with_design_3,
 						"sell-with-design",
-						"Business & Entrepreneurship/Toolstack/Sell With Design - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Sell With Design - Toolstack.pdf"
 				)
 		);
 
@@ -3133,7 +3133,7 @@ public class ProductCatalog {
 						R.drawable.the_power_of_prototypes_toolstack_2,
 						R.drawable.the_power_of_prototypes_toolstack_3,
 						"the-power-of-prototypes",
-						"Business & Entrepreneurship/Toolstack/The Power of Prototypes - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- The Power of Prototypes - Toolstack.pdf"
 				)
 		);
 
@@ -3162,7 +3162,7 @@ public class ProductCatalog {
 						R.drawable.understanding_business_metrics_toolstack_2,
 						R.drawable.understanding_business_metrics_toolstack_3,
 						"understanding-business-metrics",
-						"Business & Entrepreneurship/Toolstack/Understanding Business Metrics - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Understanding Business Metrics - Toolstack.pdf"
 				)
 		);
 
@@ -3191,7 +3191,7 @@ public class ProductCatalog {
 						R.drawable.validate_business_ideas_toolstack_2,
 						R.drawable.validate_business_ideas_toolstack_3,
 						"validate-business-ideas",
-						"Business & Entrepreneurship/Toolstack/Validate Business Ideas - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Validate Business Ideas - Toolstack.pdf"
 				)
 		);
 
@@ -3221,7 +3221,7 @@ public class ProductCatalog {
 						R.drawable.winning_product_research_toolstack_2,
 						R.drawable.winning_product_research_toolstack_3,
 						"winning-product-research",
-						"Business & Entrepreneurship/Toolstack/Winning Product Research - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Winning Product Research - Toolstack.pdf"
 				)
 		);
 
@@ -3250,7 +3250,7 @@ public class ProductCatalog {
 						R.drawable.your_business_plan_playbook_2,
 						R.drawable.your_business_plan_playbook_3,
 						"your-business-plan-playbook",
-						"Business & Entrepreneurship/Toolstack/Your Business Plan Playbook - Toolstack.pdf"
+						"Business & Entrepreneurship/Toolstack/- Your Business Plan Playbook - Toolstack.pdf"
 				)
 		);
 
@@ -3284,7 +3284,7 @@ public class ProductCatalog {
 						R.drawable.confidently_close_every_call_workbook_2,
 						R.drawable.confidently_close_every_call_workbook_3,
 						"confidently-close-every-call-workbook",
-						"Business & Entrepreneurship/Workbook/Confidently Close Every Call - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Confidently Close Every Call - Workbook.pdf"
 
 				)
 		);
@@ -3314,7 +3314,7 @@ public class ProductCatalog {
 						R.drawable.faceless_creator_2,
 						R.drawable.faceless_creator_3,
 						"faceless-creator-workbook",
-						"Business & Entrepreneurship/Workbook/Faceless Creator - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Faceless Creator - Workbook.pdf"
 
 				)
 		);
@@ -3343,7 +3343,7 @@ public class ProductCatalog {
 						R.drawable.high_ticket_affiliate_marketing_workbook_2,
 						R.drawable.high_ticket_affiliate_marketing_workbook_3,
 						"high-ticket-affiliate-marketing-workbook",
-						"Business & Entrepreneurship/Workbook/High-Ticket Affiliate Marketing - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- High-Ticket Affiliate Marketing - Workbook.pdf"
 
 				)
 		);
@@ -3372,7 +3372,7 @@ public class ProductCatalog {
 						R.drawable.how_to_build_a_website_workbook_2,
 						R.drawable.how_to_build_a_website_workbook_3,
 						"how-to-build-a-website-workbook",
-						"Business & Entrepreneurship/Workbook/How to Build a Website - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- How to Build a Website - Workbook.pdf"
 
 				)
 		);
@@ -3402,7 +3402,7 @@ public class ProductCatalog {
 						R.drawable.microsaas_success_blueprint_workbook_2,
 						R.drawable.microsaas_success_blueprint_workbook_3,
 						"microsaas-success-blueprint-workbook",
-						"Business & Entrepreneurship/Workbook/MicroSaas Success Blueprint - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- MicroSaas Success Blueprint - Workbook.pdf"
 
 				)
 		);
@@ -3431,7 +3431,7 @@ public class ProductCatalog {
 						R.drawable.money_psychology_in_business_worbook_2,
 						R.drawable.money_psychology_in_business_worbook_3,
 						"money-psychology-in-business-workbook",
-						"Business & Entrepreneurship/Workbook/Money Psychology in Business - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Money Psychology in Business - Workbook.pdf"
 
 				)
 		);
@@ -3461,7 +3461,7 @@ public class ProductCatalog {
 						R.drawable.the_power_of_prototypes_workbook_2,
 						R.drawable.the_power_of_prototypes_workbook_3,
 						"the-power-of-prototypes-workbook",
-						"Business & Entrepreneurship/Workbook/The Power of Prototypes - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- The Power of Prototypes - Workbook.pdf"
 
 				)
 		);
@@ -3490,7 +3490,7 @@ public class ProductCatalog {
 						R.drawable.understanding_business_metrics_workbook_2,
 						R.drawable.understanding_business_metrics_workbook_3,
 						"understanding-business-metrics-workbook",
-						"Business & Entrepreneurship/Workbook/Understanding Business Metrics - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Understanding Business Metrics - Workbook.pdf"
 
 				)
 		);
@@ -3519,7 +3519,7 @@ public class ProductCatalog {
 						R.drawable.validate_business_ideas_workbook_2,
 						R.drawable.validate_business_ideas_workbook_3,
 						"validate-business-ideas-workbook",
-						"Business & Entrepreneurship/Workbook/Validate Business Ideas - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Validate Business Ideas - Workbook.pdf"
 
 				)
 		);
@@ -3549,7 +3549,7 @@ public class ProductCatalog {
 						R.drawable.winning_product_research_workbook_2,
 						R.drawable.winning_product_research_workbook_3,
 						"winning-product-research-workbook",
-						"Business & Entrepreneurship/Workbook/Winning Product Research - Workbook.pdf"
+						"Business & Entrepreneurship/Workbook/- Winning Product Research - Workbook.pdf"
 
 				)
 		);
